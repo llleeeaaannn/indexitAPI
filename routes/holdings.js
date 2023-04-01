@@ -16,7 +16,7 @@ const testMiddleware = async function(req, res, next) {
 
     const tickerData = data.slice(3, data.length - 6);
 
-    const transformedData = tickerData.map(item => {
+    const formattedData = tickerData.map(item => {
       const ticker = item['SPDR® S&P 500® ETF Trust'];
       return {
         [ticker]: {
@@ -31,9 +31,9 @@ const testMiddleware = async function(req, res, next) {
       };
     });
 
-    console.log(transformedData);
+    console.log(formattedData);
 
-    req.excel = transformedData;
+    req.data = formattedData;
 
     next();
   } catch(error) {
@@ -46,7 +46,7 @@ router
   .route('/')
   .get([testMiddleware], function(req, res) {
     console.log('End of router');
-    res.send(req.excel)
+    res.send(req.data)
   })
 
 export default router;
