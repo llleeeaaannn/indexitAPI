@@ -29,26 +29,22 @@ const formatHoldings = async function(req, res, next) {
 
     const tickerData = req.tickerData;
 
-    console.log(Array.isArray(tickerData));
-
-    const formattedData = tickerData.map(item => {
+    // Function that takes tickerData array, reformats the objects and returns them in an object
+    const formattedData = tickerData.reduce((acc, item) => {
       const ticker = item['SPDR® S&P 500® ETF Trust'];
-      return {
-        [ticker]: {
-          ticker: ticker,
-          name: item['Fund Name:'],
-          weight: item['__EMPTY_2'],
-          sedol: item['__EMPTY_1'],
-          identifier: item['__EMPTY'],
-          shares: item['__EMPTY_4'],
-          sector: item['__EMPTY_3'],
-          price: Math.floor(Math.random() * (250 - 50 + 1) + 50),
-          currentprice: Math.floor(Math.random() * (250 - 50 + 1) + 50)
-        }
+      acc[ticker] = {
+        ticker: ticker,
+        name: item['Fund Name:'],
+        weight: item['__EMPTY_2'],
+        sedol: item['__EMPTY_1'],
+        identifier: item['__EMPTY'],
+        shares: item['__EMPTY_4'],
+        sector: item['__EMPTY_3'],
+        price: Math.floor(Math.random() * (250 - 50 + 1) + 50),
+        currentprice: Math.floor(Math.random() * (250 - 50 + 1) + 50)
       };
-    });
-
-    console.log(Array.isArray(formattedData));
+      return acc;
+    }, {});
 
     req.formattedData = formattedData;
 
