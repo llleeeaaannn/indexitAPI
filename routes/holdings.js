@@ -2,7 +2,7 @@ import express from 'express';
 
 const router = express.Router();
 
-const testMiddlewear = async function(req, res, next) {
+const testMiddleware = async function(req, res, next) {
   try {
     console.log('TESTING')
   } catch(error) {
@@ -10,3 +10,12 @@ const testMiddlewear = async function(req, res, next) {
     next(error);
   }
 }
+
+router
+  .route('/')
+  .get([testMiddleware], function(req, res) {
+    console.log('End of router');
+    res.send('RESPONSE SENT')
+  })
+
+export default router;
