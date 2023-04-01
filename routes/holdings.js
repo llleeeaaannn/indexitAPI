@@ -16,7 +16,7 @@ const getHoldings = async function(req, res, next) {
 
     const tickerData = data.slice(3, data.length - 6);
 
-    req.data = tickerData;
+    req.tickerData = tickerData;
 
     next();
   } catch(error) {
