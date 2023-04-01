@@ -1,0 +1,19 @@
+{
+  "name": "indexitapi",
+  "version": "1.0.0",
+  "description": "IndexIt API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llleeeaaannn/indexitAPI.git"
+  },
+  "author": "Frank Pierce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llleeeaaannn/indexitAPI/issues"
+  },
+  "homepage": "https://github.com/llleeeaaannn/indexitAPI#readme"
+}
