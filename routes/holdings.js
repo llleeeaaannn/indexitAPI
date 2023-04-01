@@ -14,9 +14,11 @@ const testMiddleware = async function(req, res, next) {
 
     const data = XLSX.utils.sheet_to_json(sheet);
 
-    console.log(data);
+    const tickerData = data.slice(3, data.length - 6);
 
-    req.excel = data;
+    console.log(tickerData);
+
+    req.excel = tickerData;
 
     next();
   } catch(error) {
@@ -29,7 +31,7 @@ router
   .route('/')
   .get([testMiddleware], function(req, res) {
     console.log('End of router');
-    res.send(req.data)
+    res.send(req.excel)
   })
 
 export default router;
