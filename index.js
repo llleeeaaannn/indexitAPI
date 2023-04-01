@@ -1,11 +1,11 @@
 import cors from 'cors';
 import express from 'express';
 
-import holdings from './routes.holdings.js';
+import holdings from './routes/holdings.js';
 
 const app = express();
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 4000;
 
 app.use(cors());
 app.use(express.json());
@@ -20,4 +20,4 @@ app.use('/holdings', holdings);
 
 app.use(errorHandler);
 
-app.listen(PORT, () => console.log(`Server running on port ${Port}`));
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
