@@ -29,6 +29,8 @@ const formatHoldings = async function(req, res, next) {
 
     const tickerData = req.tickerData;
 
+    console.log(Array.isArray(tickerData));
+
     const formattedData = tickerData.map(item => {
       const ticker = item['SPDR® S&P 500® ETF Trust'];
       return {
@@ -45,6 +47,8 @@ const formatHoldings = async function(req, res, next) {
         }
       };
     });
+
+    console.log(Array.isArray(formattedData));
 
     req.formattedData = formattedData;
 
