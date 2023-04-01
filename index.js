@@ -18,4 +18,6 @@ const errorHandler = function(error, req, res, next) {
 
 app.use('/holdings', holdings);
 
+app.use(errorHandler);
+
 app.listen(PORT, () => console.log(`Server running on port ${Port}`));
