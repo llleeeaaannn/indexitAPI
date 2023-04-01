@@ -40,7 +40,8 @@ const formatHoldings = async function(req, res, next) {
           identifier: item['__EMPTY'],
           shares: item['__EMPTY_4'],
           sector: item['__EMPTY_3'],
-          price: Math.floor(Math.random() * (250 - 50 + 1) + 50)
+          price: Math.floor(Math.random() * (250 - 50 + 1) + 50),
+          currentprice: Math.floor(Math.random() * (250 - 50 + 1) + 50)
         }
       };
     });
