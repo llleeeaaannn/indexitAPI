@@ -5,6 +5,7 @@ const router = express.Router();
 const testMiddleware = async function(req, res, next) {
   try {
     console.log('TESTING');
+    next();
   } catch(error) {
     console.log('ERRORRRRRR');
     next(error);
