@@ -16,21 +16,20 @@ const testMiddleware = async function(req, res, next) {
 
     const tickerData = data.slice(3, data.length - 6);
 
-    const transformedData = data.map(item => {
+    const transformedData = tickerData.map(item => {
       const ticker = item['SPDR® S&P 500® ETF Trust'];
       return {
         [ticker]: {
           ticker: ticker,
           name: item['Fund Name:'],
-          identifier: item['__EMPTY'],
-          sedol: item['__EMPTY_1'],
           weight: item['__EMPTY_2'],
-          sector: item['__EMPTY_3'],
+          sedol: item['__EMPTY_1'],
+          identifier: item['__EMPTY'],
           shares: item['__EMPTY_4'],
+          sector: item['__EMPTY_3'],
         }
       };
     });
-
 
     console.log(transformedData);
 
