@@ -31,13 +31,10 @@ const testMiddleware = async function(req, res, next) {
       };
     });
 
-    console.log(formattedData);
-
     req.data = formattedData;
 
     next();
   } catch(error) {
-    console.log('ERRORRRRRR');
     next(error);
   }
 }
@@ -45,7 +42,6 @@ const testMiddleware = async function(req, res, next) {
 router
   .route('/')
   .get([testMiddleware], function(req, res) {
-    console.log('End of router');
     res.send(req.data)
   })
 
