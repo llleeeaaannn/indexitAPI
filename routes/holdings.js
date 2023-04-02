@@ -31,6 +31,7 @@ const formatHoldings = async function(req, res, next) {
 
     // Function that takes tickerData array, reformats the objects and returns them in an object
     const formattedData = tickerData.reduce((acc, item) => {
+      const price = Math.floor(Math.random() * (250 - 50 + 1) + 50);
       const ticker = item['SPDR® S&P 500® ETF Trust'];
       acc[ticker] = {
         ticker: ticker,
@@ -40,8 +41,8 @@ const formatHoldings = async function(req, res, next) {
         identifier: item['__EMPTY'],
         shares: item['__EMPTY_4'],
         sector: item['__EMPTY_3'],
-        price: Math.floor(Math.random() * (250 - 50 + 1) + 50),
-        currentprice: Math.floor(Math.random() * (250 - 50 + 1) + 50)
+        price: price,
+        currentprice: price
       };
       return acc;
     }, {});
