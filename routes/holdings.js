@@ -1,5 +1,5 @@
-import express from 'express';
 import XLSX from 'xlsx';
+import express from 'express';
 
 const router = express.Router();
 
@@ -33,6 +33,7 @@ const getHoldings = async function(req, res, next) {
 const formatHoldings = async function(req, res, next) {
   try {
 
+    // Get holdings data from previous middleware
     const tickerData = req.tickerData;
 
     // Function that takes tickerData array, reformats the objects and returns them in an object
@@ -53,6 +54,7 @@ const formatHoldings = async function(req, res, next) {
       return acc;
     }, {});
 
+    // Store formattedData in request
     req.formattedData = formattedData;
 
     next();
