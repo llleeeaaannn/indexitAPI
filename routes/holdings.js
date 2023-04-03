@@ -6,16 +6,22 @@ const router = express.Router();
 const getHoldings = async function(req, res, next) {
   try {
 
+    // Read holdings XLSX file
     const workbook = XLSX.readFile('spyholdings.xlsx');
 
+    // Get first name from list of sheet names
     const sheetName = workbook.SheetNames[0];
 
+    // Get first sheet
     const sheet = workbook.Sheets[sheetName];
 
+    // Convert XLSX to JSON
     const data = XLSX.utils.sheet_to_json(sheet);
 
+    // Remove the first three and last six objects
     const tickerData = data.slice(3, data.length - 6);
 
+    // Store data in request
     req.tickerData = tickerData;
 
     next();
@@ -28,8 +34,6 @@ const formatHoldings = async function(req, res, next) {
   try {
 
     const tickerData = req.tickerData;
-
-    // RENAME CURRENT PRICE
 
     // Function that takes tickerData array, reformats the objects and returns them in an object
     const formattedData = tickerData.reduce((acc, item) => {
