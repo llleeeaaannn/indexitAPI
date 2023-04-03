@@ -29,6 +29,8 @@ const formatHoldings = async function(req, res, next) {
 
     const tickerData = req.tickerData;
 
+    // RENAME CURRENT PRICE
+
     // Function that takes tickerData array, reformats the objects and returns them in an object
     const formattedData = tickerData.reduce((acc, item) => {
       const price = Math.floor(Math.random() * (250 - 50 + 1) + 50);
@@ -42,7 +44,7 @@ const formatHoldings = async function(req, res, next) {
         shares: item['__EMPTY_4'],
         sector: item['__EMPTY_3'],
         price: price,
-        currentprice: price
+        originalprice: price
       };
       return acc;
     }, {});
