@@ -1,7 +1,7 @@
 import XLSX from 'xlsx';
 import fs from 'fs/promises';
 
-const getHoldingsData = () => {
+const getHoldingsData = async () => {
 
   // Read holdings XLSX file
   const workbook = XLSX.readFile('spyholdings.xlsx');
