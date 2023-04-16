@@ -37,6 +37,12 @@ const getHoldingsData = () => {
   }, {});
 
   // Write data to file
+  try {
+    await fs.writeFile('output.json', JSON.stringify(formattedData, null, 2), 'utf-8');
+    console.log('Data written to output.json');
+  } catch (err) {
+    console.error('Error writing data to file:', err);
+  }
 }
 
 export default getHoldingsData
