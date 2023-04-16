@@ -1,4 +1,5 @@
 import XLSX from 'xlsx';
+import fs from 'fs/promises';
 
 const getHoldingsData = () => {
 
@@ -34,6 +35,8 @@ const getHoldingsData = () => {
     };
     return acc;
   }, {});
+
+  // Write data to file
 }
 
 export default getHoldingsData
