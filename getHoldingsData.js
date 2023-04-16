@@ -1,5 +1,4 @@
 import XLSX from 'xlsx';
-import express from 'express';
 
 const getHoldingsData = () => {
 
