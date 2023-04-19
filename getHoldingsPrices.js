@@ -1,26 +1,22 @@
-import fs from 'fs';
+import fs from 'fs/promises';
 
-const getHoldingsPrices = () => {
+const getHoldingsPrices = async () => {
 
-  // Import Holdings data
-  fs.readFile('output.json', 'utf8', (err, data) => {
-    if (err) {
-      console.error('Error reading file:', err);
-      return;
-    }
+  let holdings = 'Test';
 
-    // Parse the JSON data and store it as a variable
-    try {
-      const jsonData = JSON.parse(data);
-      console.log('JSON data:', jsonData);
+  try {
+    // Import Holdings data
+    const data = await fs.readFile('output.json', 'utf8');
+    holdings = JSON.parse(data);
+    console.log('JSON got');
+  } catch (err) {
+    console.error('Error reading file:', err);
+    return;
+  }
 
-      // You can use the jsonData variable in your function now
-      // Do something with jsonData...
+  console.log(typeof holdings)
+  console.log(holdings)
 
-    } catch (err) {
-      console.error('Error parsing JSON:', err);
-    }
-  });
 
   // Seperate data into segments
 
