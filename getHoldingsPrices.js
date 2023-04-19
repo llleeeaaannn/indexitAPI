@@ -21,16 +21,20 @@ const getHoldingsPrices = async () => {
   
   // Function to make the API call for a single stock
   async function callApiForStock(stock) {
-    const response = await fetch('https://api.example.com/stocks', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(stock),
+    const response = await fetch(`https://api.tradier.com/v1/markets/quotes?symbols=${stock.ticker}`, {
+      headers: {
+        'Authorization': 'Bearer hVEHMAAnKrWiKuc5sBN9720QtWTg',
+        'Accept': 'application/json'
+      }
     });
-  
-    const data = await response.json();
-    console.log(`API call result for ${stock.ticker}:`, data);
+    if (!response.ok) {
+      console.log('Response failed')
+    } else {
+      const data = await response.json();
+      console.log(`API call result for ${stock.ticker}:`, data);
 
-    pricedStocks[stock.ticker] = data;
+      pricedStocks[stock.ticker] = data;
+    }
   }
   
   // Function to call a batch of stocks
@@ -57,8 +61,9 @@ const getHoldingsPrices = async () => {
     }
   }
   
-  // Start making the API calls
   makeApiCalls();
+
+  console.log(pricedStocks)
 
   // Store price for each stock
 
