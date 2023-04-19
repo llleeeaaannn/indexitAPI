@@ -6,7 +6,6 @@ const getHoldingsPrices = async () => {
   const CALLDELAY = 90 * 1000;
 
   let stocks;
-
   const pricedStocks = {};
 
   try {
@@ -63,9 +62,7 @@ const getHoldingsPrices = async () => {
   
   await makeApiCalls();
 
-  console.log(pricedStocks)
-
-  // Write data to file
+  // Write data with new price to file
   try {
     await fs.writeFile('prices.json', JSON.stringify(pricedStocks, null, 2), 'utf-8');
     console.log('Data written to output.json');
@@ -73,9 +70,6 @@ const getHoldingsPrices = async () => {
     console.error('Error writing data to file:', err);
   }
 
-  // Store price for each stock
-
-  // Write data with new price to file
 }
 
 export default getHoldingsPrices;
