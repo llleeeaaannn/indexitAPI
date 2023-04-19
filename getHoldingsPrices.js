@@ -12,7 +12,7 @@ const getHoldingsPrices = async () => {
   try {
     // Import Holdings data
     const data = await fs.readFile('output.json', 'utf8');
-    holdings = JSON.parse(data);
+    stocks = JSON.parse(data);
     console.log('JSON got');
   } catch (err) {
     console.error('Error reading file:', err);
@@ -48,20 +48,20 @@ const getHoldingsPrices = async () => {
   async function makeApiCalls() {
     const stockKeys = Object.keys(stocks);
   
-    for (let i = 0; i < stockKeys.length; i += BATCHSIZE) {
+    for (let i = 0; i < 70; i += BATCHSIZE) {
       const batch = stockKeys.slice(i, i + BATCHSIZE);
   
       // Process the current batch
       await processBatch(batch);
   
       // If there are more stocks to process, wait for the delay between calls
-      if (i + BATCHSIZE < stockKeys.length) {
+      if (i + BATCHSIZE < 70) {
         await new Promise((resolve) => setTimeout(resolve, CALLDELAY));
       }
     }
   }
   
-  makeApiCalls();
+  await makeApiCalls();
 
   console.log(pricedStocks)
 
