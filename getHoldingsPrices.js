@@ -65,6 +65,14 @@ const getHoldingsPrices = async () => {
 
   console.log(pricedStocks)
 
+  // Write data to file
+  try {
+    await fs.writeFile('prices.json', JSON.stringify(pricedStocks, null, 2), 'utf-8');
+    console.log('Data written to output.json');
+  } catch (err) {
+    console.error('Error writing data to file:', err);
+  }
+
   // Store price for each stock
 
   // Write data with new price to file
