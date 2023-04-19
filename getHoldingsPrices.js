@@ -59,13 +59,6 @@ const getHoldingsPrices = async () => {
   
   // Start making the API calls
   makeApiCalls();
-  
-
-  // Seperate data into segments
-
-  // Assign time to each segment
-
-  // Call API for each stock in segment
 
   // Store price for each stock
 
