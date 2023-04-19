@@ -30,8 +30,6 @@ const getHoldingsPrices = async () => {
       console.log('Response failed')
     } else {
       const data = await response.json();
-      console.log(`API call result for ${stock.ticker}:`, data);
-
       pricedStocks[stock.ticker] = data;
     }
   }
@@ -47,14 +45,14 @@ const getHoldingsPrices = async () => {
   async function makeApiCalls() {
     const stockKeys = Object.keys(stocks);
   
-    for (let i = 0; i < 70; i += BATCHSIZE) {
+    for (let i = 0; i < stockKeys.length; i += BATCHSIZE) {
       const batch = stockKeys.slice(i, i + BATCHSIZE);
   
       // Process the current batch
       await processBatch(batch);
   
       // If there are more stocks to process, wait for the delay between calls
-      if (i + BATCHSIZE < 70) {
+      if (i + BATCHSIZE < stockKeys.length) {
         await new Promise((resolve) => setTimeout(resolve, CALLDELAY));
       }
     }
