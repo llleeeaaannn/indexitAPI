@@ -3,7 +3,7 @@ import express from 'express';
 import getHoldingsData from './parseHoldings.js';
 import getHoldingsPrices from './getPrices.js';
 
-import holdings from './routes/getHoldings.js';
+import holdings from './routes/holdings.js';
 
 const app = express();
 
