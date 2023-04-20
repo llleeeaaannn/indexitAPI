@@ -1,9 +1,9 @@
 import cors from 'cors';
 import express from 'express';
-import getHoldingsData from './getHoldingsData.js';
-import getHoldingsPrices from './getHoldingsPrices.js';
+import getHoldingsData from './parseHoldings.js';
+import getHoldingsPrices from './getPrices.js';
 
-import holdings from './routes/holdings.js';
+import holdings from './routes/getHoldings.js';
 
 const app = express();
 

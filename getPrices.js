@@ -1,6 +1,6 @@
 import fs from 'fs/promises';
 
-const getHoldingsPrices = async () => {
+const getPrices = async () => {
 
   const BATCHSIZE = 50;
   const CALLDELAY = 90 * 1000;
@@ -70,4 +70,4 @@ const getHoldingsPrices = async () => {
 
 }
 
-export default getHoldingsPrices;
+export default getPrices;

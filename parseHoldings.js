@@ -1,7 +1,7 @@
 import XLSX from 'xlsx';
 import fs from 'fs/promises';
 
-const getHoldingsData = async () => {
+const parseHoldings = async () => {
 
   // Read holdings XLSX file
   const workbook = XLSX.readFile('spyholdings.xlsx');
@@ -45,4 +45,4 @@ const getHoldingsData = async () => {
   }
 }
 
-export default getHoldingsData
+export default parseHoldings;
