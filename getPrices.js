@@ -30,6 +30,7 @@ const getPrices = async () => {
       console.log('Response failed')
     } else {
       const data = await response.json();
+      console.log(data);
       pricedStocks[stock.ticker] = data;
     }
   }

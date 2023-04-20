@@ -1,7 +1,7 @@
 import cors from 'cors';
 import express from 'express';
-import getHoldingsData from './parseHoldings.js';
-import getHoldingsPrices from './getPrices.js';
+import getPrices from './getPrices.js';
+import parseHoldings from './parseHoldings.js';
 
 import holdings from './routes/holdings.js';
 
@@ -13,11 +13,11 @@ app.use(cors());
 app.use(express.json());
 
 const callFunctions = async () => {
-  await getHoldingsData();
-  await getHoldingsPrices();
+  await parseHoldings();
+  await getPrices();
 }
 
-callFunctions();
+// callFunctions();
 
 const errorHandler = function(error, req, res, next) {
   console.log(`Error: ${error.message}`);
