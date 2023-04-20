@@ -7,8 +7,8 @@
     "identifier": "03783310",
     "shares": "162252740.000",
     "sector": "Information Technology",
-    "price": 179,
-    "originalprice": 179
+    "price": 193,
+    "originalprice": 193
   },
   "MSFT": {
     "ticker": "MSFT",
@@ -18,8 +18,8 @@
     "identifier": "59491810",
     "shares": "81208136.000",
     "sector": "Information Technology",
-    "price": 239,
-    "originalprice": 239
+    "price": 211,
+    "originalprice": 211
   },
   "AMZN": {
     "ticker": "AMZN",
@@ -29,8 +29,8 @@
     "identifier": "02313510",
     "shares": "97259360.000",
     "sector": "Consumer Discretionary",
-    "price": 217,
-    "originalprice": 217
+    "price": 55,
+    "originalprice": 55
   },
   "NVDA": {
     "ticker": "NVDA",
@@ -40,8 +40,8 @@
     "identifier": "67066G10",
     "shares": "26837304.000",
     "sector": "Information Technology",
-    "price": 67,
-    "originalprice": 67
+    "price": 143,
+    "originalprice": 143
   },
   "GOOGL": {
     "ticker": "GOOGL",
@@ -51,8 +51,8 @@
     "identifier": "02079K30",
     "shares": "64976830.000",
     "sector": "Communication Services",
-    "price": 194,
-    "originalprice": 194
+    "price": 175,
+    "originalprice": 175
   },
   "BRK/B": {
     "ticker": "BRK/B",
@@ -62,8 +62,8 @@
     "identifier": "08467070",
     "shares": "19655842.000",
     "sector": "Financials",
-    "price": 214,
-    "originalprice": 214
+    "price": 88,
+    "originalprice": 88
   },
   "GOOG": {
     "ticker": "GOOG",
@@ -73,8 +73,8 @@
     "identifier": "02079K10",
     "shares": "56643770.000",
     "sector": "Communication Services",
-    "price": 202,
-    "originalprice": 202
+    "price": 234,
+    "originalprice": 234
   },
   "TSLA": {
     "ticker": "TSLA",
@@ -84,8 +84,8 @@
     "identifier": "88160R10",
     "shares": "29340924.000",
     "sector": "Consumer Discretionary",
-    "price": 173,
-    "originalprice": 173
+    "price": 89,
+    "originalprice": 89
   },
   "META": {
     "ticker": "META",
@@ -95,8 +95,8 @@
     "identifier": "30303M10",
     "shares": "24281900.000",
     "sector": "Communication Services",
-    "price": 145,
-    "originalprice": 145
+    "price": 162,
+    "originalprice": 162
   },
   "XOM": {
     "ticker": "XOM",
@@ -106,8 +106,8 @@
     "identifier": "30231G10",
     "shares": "44925310.000",
     "sector": "Energy",
-    "price": 222,
-    "originalprice": 222
+    "price": 147,
+    "originalprice": 147
   },
   "UNH": {
     "ticker": "UNH",
@@ -117,8 +117,8 @@
     "identifier": "91324P10",
     "shares": "10193235.000",
     "sector": "Health Care",
-    "price": 138,
-    "originalprice": 138
+    "price": 77,
+    "originalprice": 77
   },
   "JNJ": {
     "ticker": "JNJ",
@@ -128,8 +128,8 @@
     "identifier": "47816010",
     "shares": "28522668.000",
     "sector": "Health Care",
-    "price": 159,
-    "originalprice": 159
+    "price": 235,
+    "originalprice": 235
   },
   "JPM": {
     "ticker": "JPM",
@@ -139,8 +139,8 @@
     "identifier": "46625H10",
     "shares": "31999724.000",
     "sector": "Financials",
-    "price": 177,
-    "originalprice": 177
+    "price": 103,
+    "originalprice": 103
   },
   "V": {
     "ticker": "V",
@@ -150,8 +150,8 @@
     "identifier": "92826C83",
     "shares": "17727408.000",
     "sector": "Financials",
-    "price": 130,
-    "originalprice": 130
+    "price": 111,
+    "originalprice": 111
   },
   "PG": {
     "ticker": "PG",
@@ -161,8 +161,8 @@
     "identifier": "74271810",
     "shares": "25737022.000",
     "sector": "Consumer Staples",
-    "price": 194,
-    "originalprice": 194
+    "price": 90,
+    "originalprice": 90
   },
   "MA": {
     "ticker": "MA",
@@ -172,8 +172,8 @@
     "identifier": "57636Q10",
     "shares": "9204548.000",
     "sector": "Financials",
-    "price": 194,
-    "originalprice": 194
+    "price": 81,
+    "originalprice": 81
   },
   "HD": {
     "ticker": "HD",
@@ -183,8 +183,8 @@
     "identifier": "43707610",
     "shares": "11118723.000",
     "sector": "Consumer Discretionary",
-    "price": 119,
-    "originalprice": 119
+    "price": 197,
+    "originalprice": 197
   },
   "CVX": {
     "ticker": "CVX",
@@ -194,8 +194,8 @@
     "identifier": "16676410",
     "shares": "19407424.000",
     "sector": "Energy",
-    "price": 228,
-    "originalprice": 228
+    "price": 100,
+    "originalprice": 100
   },
   "ABBV": {
     "ticker": "ABBV",
@@ -205,8 +205,8 @@
     "identifier": "00287Y10",
     "shares": "19293186.000",
     "sector": "Health Care",
-    "price": 229,
-    "originalprice": 229
+    "price": 51,
+    "originalprice": 51
   },
   "LLY": {
     "ticker": "LLY",
@@ -216,8 +216,8 @@
     "identifier": "53245710",
     "shares": "8603748.000",
     "sector": "Health Care",
-    "price": 208,
-    "originalprice": 208
+    "price": 112,
+    "originalprice": 112
   },
   "MRK": {
     "ticker": "MRK",
@@ -227,8 +227,8 @@
     "identifier": "58933Y10",
     "shares": "27659828.000",
     "sector": "Health Care",
-    "price": 63,
-    "originalprice": 63
+    "price": 137,
+    "originalprice": 137
   },
   "AVGO": {
     "ticker": "AVGO",
@@ -238,8 +238,8 @@
     "identifier": "11135F10",
     "shares": "4558949.000",
     "sector": "Information Technology",
-    "price": 93,
-    "originalprice": 93
+    "price": 57,
+    "originalprice": 57
   },
   "PEP": {
     "ticker": "PEP",
@@ -249,8 +249,8 @@
     "identifier": "71344810",
     "shares": "15025124.000",
     "sector": "Consumer Staples",
-    "price": 124,
-    "originalprice": 124
+    "price": 125,
+    "originalprice": 125
   },
   "KO": {
     "ticker": "KO",
@@ -260,8 +260,8 @@
     "identifier": "19121610",
     "shares": "42460336.000",
     "sector": "Consumer Staples",
-    "price": 88,
-    "originalprice": 88
+    "price": 69,
+    "originalprice": 69
   },
   "PFE": {
     "ticker": "PFE",
@@ -271,8 +271,8 @@
     "identifier": "71708110",
     "shares": "61238384.000",
     "sector": "Health Care",
-    "price": 54,
-    "originalprice": 54
+    "price": 190,
+    "originalprice": 190
   },
   "TMO": {
     "ticker": "TMO",
@@ -282,8 +282,8 @@
     "identifier": "88355610",
     "shares": "4278689.000",
     "sector": "Health Care",
-    "price": 142,
-    "originalprice": 142
+    "price": 113,
+    "originalprice": 113
   },
   "COST": {
     "ticker": "COST",
@@ -293,8 +293,8 @@
     "identifier": "22160K10",
     "shares": "4840803.000",
     "sector": "Consumer Staples",
-    "price": 212,
-    "originalprice": 212
+    "price": 62,
+    "originalprice": 62
   },
   "CSCO": {
     "ticker": "CSCO",
@@ -304,8 +304,8 @@
     "identifier": "17275R10",
     "shares": "44817304.000",
     "sector": "Information Technology",
-    "price": 219,
-    "originalprice": 219
+    "price": 132,
+    "originalprice": 132
   },
   "WMT": {
     "ticker": "WMT",
@@ -315,8 +315,8 @@
     "identifier": "93114210",
     "shares": "15298765.000",
     "sector": "Consumer Staples",
-    "price": 73,
-    "originalprice": 73
+    "price": 54,
+    "originalprice": 54
   },
   "MCD": {
     "ticker": "MCD",
@@ -326,8 +326,8 @@
     "identifier": "58013510",
     "shares": "7990300.000",
     "sector": "Consumer Discretionary",
-    "price": 212,
-    "originalprice": 212
+    "price": 88,
+    "originalprice": 88
   },
   "BAC": {
     "ticker": "BAC",
@@ -337,8 +337,8 @@
     "identifier": "06050510",
     "shares": "76142950.000",
     "sector": "Financials",
-    "price": 143,
-    "originalprice": 143
+    "price": 118,
+    "originalprice": 118
   },
   "CRM": {
     "ticker": "CRM",
@@ -348,8 +348,8 @@
     "identifier": "79466L30",
     "shares": "10909467.000",
     "sector": "Information Technology",
-    "price": 81,
-    "originalprice": 81
+    "price": 52,
+    "originalprice": 52
   },
   "DIS": {
     "ticker": "DIS",
@@ -359,8 +359,8 @@
     "identifier": "25468710",
     "shares": "19929508.000",
     "sector": "Communication Services",
-    "price": 182,
-    "originalprice": 182
+    "price": 180,
+    "originalprice": 180
   },
   "ACN": {
     "ticker": "ACN",
@@ -370,8 +370,8 @@
     "identifier": "G1151C10",
     "shares": "6870141.000",
     "sector": "Information Technology",
-    "price": 190,
-    "originalprice": 190
+    "price": 98,
+    "originalprice": 98
   },
   "ADBE": {
     "ticker": "ADBE",
@@ -381,8 +381,8 @@
     "identifier": "00724F10",
     "shares": "4994375.000",
     "sector": "Information Technology",
-    "price": 176,
-    "originalprice": 176
+    "price": 95,
+    "originalprice": 95
   },
   "LIN": {
     "ticker": "LIN",
@@ -392,8 +392,8 @@
     "identifier": "G5495010",
     "shares": "5373010.000",
     "sector": "Materials",
-    "price": 120,
-    "originalprice": 120
+    "price": 58,
+    "originalprice": 58
   },
   "ABT": {
     "ticker": "ABT",
@@ -403,8 +403,8 @@
     "identifier": "00282410",
     "shares": "19021524.000",
     "sector": "Health Care",
-    "price": 199,
-    "originalprice": 199
+    "price": 160,
+    "originalprice": 160
   },
   "TXN": {
     "ticker": "TXN",
@@ -414,8 +414,8 @@
     "identifier": "88250810",
     "shares": "9883995.000",
     "sector": "Information Technology",
-    "price": 184,
-    "originalprice": 184
+    "price": 75,
+    "originalprice": 75
   },
   "DHR": {
     "ticker": "DHR",
@@ -425,8 +425,8 @@
     "identifier": "23585110",
     "shares": "7150887.000",
     "sector": "Health Care",
-    "price": 103,
-    "originalprice": 103
+    "price": 99,
+    "originalprice": 99
   },
   "VZ": {
     "ticker": "VZ",
@@ -436,8 +436,8 @@
     "identifier": "92343V10",
     "shares": "45818576.000",
     "sector": "Communication Services",
-    "price": 231,
-    "originalprice": 231
+    "price": 177,
+    "originalprice": 177
   },
   "AMD": {
     "ticker": "AMD",
@@ -447,8 +447,8 @@
     "identifier": "00790310",
     "shares": "17589964.000",
     "sector": "Information Technology",
-    "price": 188,
-    "originalprice": 188
+    "price": 116,
+    "originalprice": 116
   },
   "CMCSA": {
     "ticker": "CMCSA",
@@ -458,8 +458,8 @@
     "identifier": "20030N10",
     "shares": "45891976.000",
     "sector": "Communication Services",
-    "price": 220,
-    "originalprice": 220
+    "price": 191,
+    "originalprice": 191
   },
   "NEE": {
     "ticker": "NEE",
@@ -469,8 +469,8 @@
     "identifier": "65339F10",
     "shares": "21678892.000",
     "sector": "Utilities",
-    "price": 67,
-    "originalprice": 67
+    "price": 112,
+    "originalprice": 112
   },
   "NFLX": {
     "ticker": "NFLX",
@@ -480,8 +480,8 @@
     "identifier": "64110L10",
     "shares": "4858479.000",
     "sector": "Communication Services",
-    "price": 114,
-    "originalprice": 114
+    "price": 103,
+    "originalprice": 103
   },
   "PM": {
     "ticker": "PM",
@@ -491,8 +491,8 @@
     "identifier": "71817210",
     "shares": "16912256.000",
     "sector": "Consumer Staples",
-    "price": 201,
-    "originalprice": 201
+    "price": 149,
+    "originalprice": 149
   },
   "NKE": {
     "ticker": "NKE",
@@ -502,8 +502,8 @@
     "identifier": "65410610",
     "shares": "13589508.000",
     "sector": "Consumer Discretionary",
-    "price": 127,
-    "originalprice": 127
+    "price": 177,
+    "originalprice": 177
   },
   "BMY": {
     "ticker": "BMY",
@@ -513,8 +513,8 @@
     "identifier": "11012210",
     "shares": "23195340.000",
     "sector": "Health Care",
-    "price": 207,
-    "originalprice": 207
+    "price": 166,
+    "originalprice": 166
   },
   "RTX": {
     "ticker": "RTX",
@@ -524,8 +524,8 @@
     "identifier": "75513E10",
     "shares": "15981866.000",
     "sector": "Industrials",
-    "price": 129,
-    "originalprice": 129
+    "price": 79,
+    "originalprice": 79
   },
   "WFC": {
     "ticker": "WFC",
@@ -535,8 +535,8 @@
     "identifier": "94974610",
     "shares": "41570550.000",
     "sector": "Financials",
-    "price": 166,
-    "originalprice": 166
+    "price": 137,
+    "originalprice": 137
   },
   "QCOM": {
     "ticker": "QCOM",
@@ -546,8 +546,8 @@
     "identifier": "74752510",
     "shares": "12188063.000",
     "sector": "Information Technology",
-    "price": 205,
-    "originalprice": 205
+    "price": 122,
+    "originalprice": 122
   },
   "UPS": {
     "ticker": "UPS",
@@ -557,8 +557,8 @@
     "identifier": "91131210",
     "shares": "7961965.000",
     "sector": "Industrials",
-    "price": 152,
-    "originalprice": 152
+    "price": 140,
+    "originalprice": 140
   },
   "ORCL": {
     "ticker": "ORCL",
@@ -568,8 +568,8 @@
     "identifier": "68389X10",
     "shares": "16766424.000",
     "sector": "Information Technology",
-    "price": 229,
-    "originalprice": 229
+    "price": 140,
+    "originalprice": 140
   },
   "T": {
     "ticker": "T",
@@ -579,8 +579,8 @@
     "identifier": "00206R10",
     "shares": "77762830.000",
     "sector": "Communication Services",
-    "price": 63,
-    "originalprice": 63
+    "price": 185,
+    "originalprice": 185
   },
   "INTC": {
     "ticker": "INTC",
@@ -590,8 +590,8 @@
     "identifier": "45814010",
     "shares": "45132504.000",
     "sector": "Information Technology",
-    "price": 182,
-    "originalprice": 182
+    "price": 126,
+    "originalprice": 126
   },
   "AMGN": {
     "ticker": "AMGN",
@@ -601,8 +601,8 @@
     "identifier": "03116210",
     "shares": "5825361.000",
     "sector": "Health Care",
-    "price": 75,
-    "originalprice": 75
+    "price": 161,
+    "originalprice": 161
   },
   "HON": {
     "ticker": "HON",
@@ -612,8 +612,8 @@
     "identifier": "43851610",
     "shares": "7289042.000",
     "sector": "Industrials",
-    "price": 53,
-    "originalprice": 53
+    "price": 160,
+    "originalprice": 160
   },
   "INTU": {
     "ticker": "INTU",
@@ -623,8 +623,8 @@
     "identifier": "46120210",
     "shares": "3069929.000",
     "sector": "Information Technology",
-    "price": 97,
-    "originalprice": 97
+    "price": 51,
+    "originalprice": 51
   },
   "COP": {
     "ticker": "COP",
@@ -634,8 +634,8 @@
     "identifier": "20825C10",
     "shares": "13351580.000",
     "sector": "Energy",
-    "price": 242,
-    "originalprice": 242
+    "price": 178,
+    "originalprice": 178
   },
   "UNP": {
     "ticker": "UNP",
@@ -645,8 +645,8 @@
     "identifier": "90781810",
     "shares": "6675290.000",
     "sector": "Industrials",
-    "price": 67,
-    "originalprice": 67
+    "price": 98,
+    "originalprice": 98
   },
   "BA": {
     "ticker": "BA",
@@ -656,8 +656,8 @@
     "identifier": "09702310",
     "shares": "6134850.000",
     "sector": "Industrials",
-    "price": 208,
-    "originalprice": 208
+    "price": 239,
+    "originalprice": 239
   },
   "CAT": {
     "ticker": "CAT",
@@ -667,8 +667,8 @@
     "identifier": "14912310",
     "shares": "5677337.000",
     "sector": "Industrials",
-    "price": 79,
-    "originalprice": 79
+    "price": 222,
+    "originalprice": 222
   },
   "IBM": {
     "ticker": "IBM",
@@ -678,8 +678,8 @@
     "identifier": "45920010",
     "shares": "9863606.000",
     "sector": "Information Technology",
-    "price": 229,
-    "originalprice": 229
+    "price": 156,
+    "originalprice": 156
   },
   "LOW": {
     "ticker": "LOW",
@@ -689,8 +689,8 @@
     "identifier": "54866110",
     "shares": "6596998.000",
     "sector": "Consumer Discretionary",
-    "price": 65,
-    "originalprice": 65
+    "price": 85,
+    "originalprice": 85
   },
   "SBUX": {
     "ticker": "SBUX",
@@ -700,8 +700,8 @@
     "identifier": "85524410",
     "shares": "12538307.000",
     "sector": "Consumer Discretionary",
-    "price": 193,
-    "originalprice": 193
+    "price": 132,
+    "originalprice": 132
   },
   "MS": {
     "ticker": "MS",
@@ -711,8 +711,8 @@
     "identifier": "61744644",
     "shares": "14253326.000",
     "sector": "Financials",
-    "price": 90,
-    "originalprice": 90
+    "price": 243,
+    "originalprice": 243
   },
   "PLD": {
     "ticker": "PLD",
@@ -722,8 +722,8 @@
     "identifier": "74340W10",
     "shares": "10054377.000",
     "sector": "Real Estate",
-    "price": 94,
-    "originalprice": 94
+    "price": 187,
+    "originalprice": 187
   },
   "SPGI": {
     "ticker": "SPGI",
@@ -733,8 +733,8 @@
     "identifier": "78409V10",
     "shares": "3591430.000",
     "sector": "Financials",
-    "price": 140,
-    "originalprice": 140
+    "price": 69,
+    "originalprice": 69
   },
   "ELV": {
     "ticker": "ELV",
@@ -744,8 +744,8 @@
     "identifier": "03675210",
     "shares": "2605505.000",
     "sector": "Health Care",
-    "price": 98,
-    "originalprice": 98
+    "price": 222,
+    "originalprice": 222
   },
   "DE": {
     "ticker": "DE",
@@ -755,8 +755,8 @@
     "identifier": "24419910",
     "shares": "2950103.000",
     "sector": "Industrials",
-    "price": 164,
-    "originalprice": 164
+    "price": 225,
+    "originalprice": 225
   },
   "GS": {
     "ticker": "GS",
@@ -766,8 +766,8 @@
     "identifier": "38141G10",
     "shares": "3694316.000",
     "sector": "Financials",
-    "price": 205,
-    "originalprice": 205
+    "price": 221,
+    "originalprice": 221
   },
   "LMT": {
     "ticker": "LMT",
@@ -777,8 +777,8 @@
     "identifier": "53983010",
     "shares": "2478722.000",
     "sector": "Industrials",
-    "price": 106,
-    "originalprice": 106
+    "price": 133,
+    "originalprice": 133
   },
   "MDT": {
     "ticker": "MDT",
@@ -788,8 +788,8 @@
     "identifier": "G5960L10",
     "shares": "14511603.000",
     "sector": "Health Care",
-    "price": 150,
-    "originalprice": 150
+    "price": 235,
+    "originalprice": 235
   },
   "AMAT": {
     "ticker": "AMAT",
@@ -799,8 +799,8 @@
     "identifier": "03822210",
     "shares": "9197514.000",
     "sector": "Information Technology",
-    "price": 162,
-    "originalprice": 162
+    "price": 133,
+    "originalprice": 133
   },
   "GE": {
     "ticker": "GE",
@@ -810,8 +810,8 @@
     "identifier": "36960430",
     "shares": "11863569.000",
     "sector": "Industrials",
-    "price": 74,
-    "originalprice": 74
+    "price": 115,
+    "originalprice": 115
   },
   "GILD": {
     "ticker": "GILD",
@@ -821,8 +821,8 @@
     "identifier": "37555810",
     "shares": "13604143.000",
     "sector": "Health Care",
-    "price": 207,
-    "originalprice": 207
+    "price": 231,
+    "originalprice": 231
   },
   "BKNG": {
     "ticker": "BKNG",
@@ -832,8 +832,8 @@
     "identifier": "09857L10",
     "shares": "422528.000",
     "sector": "Consumer Discretionary",
-    "price": 190,
-    "originalprice": 190
+    "price": 65,
+    "originalprice": 65
   },
   "BLK": {
     "ticker": "BLK",
@@ -843,8 +843,8 @@
     "identifier": "09247X10",
     "shares": "1636476.000",
     "sector": "Financials",
-    "price": 186,
-    "originalprice": 186
+    "price": 228,
+    "originalprice": 228
   },
   "ADI": {
     "ticker": "ADI",
@@ -854,8 +854,8 @@
     "identifier": "03265410",
     "shares": "5529526.000",
     "sector": "Information Technology",
-    "price": 151,
-    "originalprice": 151
+    "price": 96,
+    "originalprice": 96
   },
   "AXP": {
     "ticker": "AXP",
@@ -865,8 +865,8 @@
     "identifier": "02581610",
     "shares": "6509778.000",
     "sector": "Financials",
-    "price": 189,
-    "originalprice": 189
+    "price": 134,
+    "originalprice": 134
   },
   "CVS": {
     "ticker": "CVS",
@@ -876,8 +876,8 @@
     "identifier": "12665010",
     "shares": "14008941.000",
     "sector": "Health Care",
-    "price": 211,
-    "originalprice": 211
+    "price": 196,
+    "originalprice": 196
   },
   "MDLZ": {
     "ticker": "MDLZ",
@@ -887,8 +887,8 @@
     "identifier": "60920710",
     "shares": "14876239.000",
     "sector": "Consumer Staples",
-    "price": 96,
-    "originalprice": 96
+    "price": 212,
+    "originalprice": 212
   },
   "SYK": {
     "ticker": "SYK",
@@ -898,8 +898,8 @@
     "identifier": "86366710",
     "shares": "3678207.000",
     "sector": "Health Care",
-    "price": 127,
-    "originalprice": 127
+    "price": 84,
+    "originalprice": 84
   },
   "AMT": {
     "ticker": "AMT",
@@ -909,8 +909,8 @@
     "identifier": "03027X10",
     "shares": "5071431.000",
     "sector": "Real Estate",
-    "price": 112,
-    "originalprice": 112
+    "price": 214,
+    "originalprice": 214
   },
   "ADP": {
     "ticker": "ADP",
@@ -920,8 +920,8 @@
     "identifier": "05301510",
     "shares": "4520395.000",
     "sector": "Industrials",
-    "price": 169,
-    "originalprice": 169
+    "price": 59,
+    "originalprice": 59
   },
   "NOW": {
     "ticker": "NOW",
@@ -931,8 +931,8 @@
     "identifier": "81762P10",
     "shares": "2214677.000",
     "sector": "Information Technology",
-    "price": 185,
-    "originalprice": 185
+    "price": 233,
+    "originalprice": 233
   },
   "TJX": {
     "ticker": "TJX",
@@ -942,8 +942,8 @@
     "identifier": "87254010",
     "shares": "12644550.000",
     "sector": "Consumer Discretionary",
-    "price": 129,
-    "originalprice": 129
+    "price": 77,
+    "originalprice": 77
   },
   "C": {
     "ticker": "C",
@@ -953,8 +953,8 @@
     "identifier": "17296742",
     "shares": "21095072.000",
     "sector": "Financials",
-    "price": 227,
-    "originalprice": 227
+    "price": 144,
+    "originalprice": 144
   },
   "ISRG": {
     "ticker": "ISRG",
@@ -964,8 +964,8 @@
     "identifier": "46120E60",
     "shares": "3822619.000",
     "sector": "Health Care",
-    "price": 176,
-    "originalprice": 176
+    "price": 195,
+    "originalprice": 195
   },
   "REGN": {
     "ticker": "REGN",
@@ -975,8 +975,8 @@
     "identifier": "75886F10",
     "shares": "1172792.000",
     "sector": "Health Care",
-    "price": 117,
-    "originalprice": 117
+    "price": 236,
+    "originalprice": 236
   },
   "TMUS": {
     "ticker": "TMUS",
@@ -986,8 +986,8 @@
     "identifier": "87259010",
     "shares": "6461743.000",
     "sector": "Communication Services",
-    "price": 119,
-    "originalprice": 119
+    "price": 88,
+    "originalprice": 88
   },
   "PYPL": {
     "ticker": "PYPL",
@@ -997,8 +997,8 @@
     "identifier": "70450Y10",
     "shares": "12342713.000",
     "sector": "Financials",
-    "price": 51,
-    "originalprice": 51
+    "price": 165,
+    "originalprice": 165
   },
   "PGR": {
     "ticker": "PGR",
@@ -1008,8 +1008,8 @@
     "identifier": "74331510",
     "shares": "6372792.000",
     "sector": "Financials",
-    "price": 139,
-    "originalprice": 139
+    "price": 190,
+    "originalprice": 190
   },
   "MMC": {
     "ticker": "MMC",
@@ -1019,8 +1019,8 @@
     "identifier": "57174810",
     "shares": "5402070.000",
     "sector": "Financials",
-    "price": 58,
-    "originalprice": 58
+    "price": 181,
+    "originalprice": 181
   },
   "VRTX": {
     "ticker": "VRTX",
@@ -1030,8 +1030,8 @@
     "identifier": "92532F10",
     "shares": "2804681.000",
     "sector": "Health Care",
-    "price": 216,
-    "originalprice": 216
+    "price": 174,
+    "originalprice": 174
   },
   "CB": {
     "ticker": "CB",
@@ -1041,8 +1041,8 @@
     "identifier": "H1467J10",
     "shares": "4520350.000",
     "sector": "Financials",
-    "price": 104,
-    "originalprice": 104
+    "price": 63,
+    "originalprice": 63
   },
   "SCHW": {
     "ticker": "SCHW",
@@ -1052,8 +1052,8 @@
     "identifier": "80851310",
     "shares": "16640364.000",
     "sector": "Financials",
-    "price": 145,
-    "originalprice": 145
+    "price": 107,
+    "originalprice": 107
   },
   "MO": {
     "ticker": "MO",
@@ -1063,8 +1063,8 @@
     "identifier": "02209S10",
     "shares": "19546820.000",
     "sector": "Consumer Staples",
-    "price": 117,
-    "originalprice": 117
+    "price": 65,
+    "originalprice": 65
   },
   "ZTS": {
     "ticker": "ZTS",
@@ -1074,8 +1074,8 @@
     "identifier": "98978V10",
     "shares": "5076181.000",
     "sector": "Health Care",
-    "price": 189,
-    "originalprice": 189
+    "price": 178,
+    "originalprice": 178
   },
   "CI": {
     "ticker": "CI",
@@ -1085,8 +1085,8 @@
     "identifier": "12552310",
     "shares": "3258385.000",
     "sector": "Health Care",
-    "price": 114,
-    "originalprice": 114
+    "price": 91,
+    "originalprice": 91
   },
   "SO": {
     "ticker": "SO",
@@ -1096,8 +1096,8 @@
     "identifier": "84258710",
     "shares": "11857370.000",
     "sector": "Utilities",
-    "price": 116,
-    "originalprice": 116
+    "price": 105,
+    "originalprice": 105
   },
   "DUK": {
     "ticker": "DUK",
@@ -1107,8 +1107,8 @@
     "identifier": "26441C20",
     "shares": "8387788.000",
     "sector": "Utilities",
-    "price": 61,
-    "originalprice": 61
+    "price": 79,
+    "originalprice": 79
   },
   "TGT": {
     "ticker": "TGT",
@@ -1118,8 +1118,8 @@
     "identifier": "87612E10",
     "shares": "5012872.000",
     "sector": "Consumer Staples",
-    "price": 222,
-    "originalprice": 222
+    "price": 91,
+    "originalprice": 91
   },
   "LRCX": {
     "ticker": "LRCX",
@@ -1129,8 +1129,8 @@
     "identifier": "51280710",
     "shares": "1472046.000",
     "sector": "Information Technology",
-    "price": 231,
-    "originalprice": 231
+    "price": 235,
+    "originalprice": 235
   },
   "FISV": {
     "ticker": "FISV",
@@ -1140,8 +1140,8 @@
     "identifier": "33773810",
     "shares": "6915780.000",
     "sector": "Financials",
-    "price": 229,
-    "originalprice": 229
+    "price": 138,
+    "originalprice": 138
   },
   "BSX": {
     "ticker": "BSX",
@@ -1151,8 +1151,8 @@
     "identifier": "10113710",
     "shares": "15600642.000",
     "sector": "Health Care",
-    "price": 58,
-    "originalprice": 58
+    "price": 159,
+    "originalprice": 159
   },
   "BDX": {
     "ticker": "BDX",
@@ -1162,8 +1162,8 @@
     "identifier": "07588710",
     "shares": "3095030.000",
     "sector": "Health Care",
-    "price": 61,
-    "originalprice": 61
+    "price": 207,
+    "originalprice": 207
   },
   "SLB": {
     "ticker": "SLB",
@@ -1173,8 +1173,8 @@
     "identifier": "80685710",
     "shares": "15493484.000",
     "sector": "Energy",
-    "price": 247,
-    "originalprice": 247
+    "price": 59,
+    "originalprice": 59
   },
   "MU": {
     "ticker": "MU",
@@ -1184,8 +1184,8 @@
     "identifier": "59511210",
     "shares": "11904195.000",
     "sector": "Information Technology",
-    "price": 183,
-    "originalprice": 183
+    "price": 195,
+    "originalprice": 195
   },
   "CME": {
     "ticker": "CME",
@@ -1195,8 +1195,8 @@
     "identifier": "12572Q10",
     "shares": "3918147.000",
     "sector": "Financials",
-    "price": 122,
-    "originalprice": 122
+    "price": 104,
+    "originalprice": 104
   },
   "ETN": {
     "ticker": "ETN",
@@ -1206,8 +1206,8 @@
     "identifier": "G2918310",
     "shares": "4338721.000",
     "sector": "Industrials",
-    "price": 214,
-    "originalprice": 214
+    "price": 87,
+    "originalprice": 87
   },
   "ITW": {
     "ticker": "ITW",
@@ -1217,8 +1217,8 @@
     "identifier": "45230810",
     "shares": "3044294.000",
     "sector": "Industrials",
-    "price": 224,
-    "originalprice": 224
+    "price": 160,
+    "originalprice": 160
   },
   "NOC": {
     "ticker": "NOC",
@@ -1228,8 +1228,8 @@
     "identifier": "66680710",
     "shares": "1576891.000",
     "sector": "Industrials",
-    "price": 126,
-    "originalprice": 126
+    "price": 197,
+    "originalprice": 197
   },
   "EOG": {
     "ticker": "EOG",
@@ -1239,8 +1239,8 @@
     "identifier": "26875P10",
     "shares": "6397137.000",
     "sector": "Energy",
-    "price": 99,
-    "originalprice": 99
+    "price": 240,
+    "originalprice": 240
   },
   "EQIX": {
     "ticker": "EQIX",
@@ -1250,8 +1250,8 @@
     "identifier": "29444U70",
     "shares": "1007917.000",
     "sector": "Real Estate",
-    "price": 244,
-    "originalprice": 244
+    "price": 235,
+    "originalprice": 235
   },
   "AON": {
     "ticker": "AON",
@@ -1261,8 +1261,8 @@
     "identifier": "G0403H10",
     "shares": "2253035.000",
     "sector": "Financials",
-    "price": 61,
-    "originalprice": 61
+    "price": 103,
+    "originalprice": 103
   },
   "CL": {
     "ticker": "CL",
@@ -1272,8 +1272,8 @@
     "identifier": "19416210",
     "shares": "9111792.000",
     "sector": "Consumer Staples",
-    "price": 196,
-    "originalprice": 196
+    "price": 106,
+    "originalprice": 106
   },
   "APD": {
     "ticker": "APD",
@@ -1283,8 +1283,8 @@
     "identifier": "00915810",
     "shares": "2415825.000",
     "sector": "Materials",
-    "price": 140,
-    "originalprice": 140
+    "price": 208,
+    "originalprice": 208
   },
   "CSX": {
     "ticker": "CSX",
@@ -1294,8 +1294,8 @@
     "identifier": "12640810",
     "shares": "22899200.000",
     "sector": "Industrials",
-    "price": 161,
-    "originalprice": 161
+    "price": 224,
+    "originalprice": 224
   },
   "HUM": {
     "ticker": "HUM",
@@ -1305,8 +1305,8 @@
     "identifier": "44485910",
     "shares": "1363363.000",
     "sector": "Health Care",
-    "price": 185,
-    "originalprice": 185
+    "price": 146,
+    "originalprice": 146
   },
   "MPC": {
     "ticker": "MPC",
@@ -1316,8 +1316,8 @@
     "identifier": "56585A10",
     "shares": "4952917.000",
     "sector": "Energy",
-    "price": 126,
-    "originalprice": 126
+    "price": 115,
+    "originalprice": 115
   },
   "ATVI": {
     "ticker": "ATVI",
@@ -1327,8 +1327,8 @@
     "identifier": "00507V10",
     "shares": "7769574.000",
     "sector": "Communication Services",
-    "price": 121,
-    "originalprice": 121
+    "price": 140,
+    "originalprice": 140
   },
   "WM": {
     "ticker": "WM",
@@ -1338,8 +1338,8 @@
     "identifier": "94106L10",
     "shares": "4068035.000",
     "sector": "Industrials",
-    "price": 69,
-    "originalprice": 69
+    "price": 245,
+    "originalprice": 245
   },
   "FCX": {
     "ticker": "FCX",
@@ -1349,8 +1349,8 @@
     "identifier": "35671D85",
     "shares": "15593276.000",
     "sector": "Materials",
-    "price": 201,
-    "originalprice": 201
+    "price": 153,
+    "originalprice": 153
   },
   "ICE": {
     "ticker": "ICE",
@@ -1360,8 +1360,8 @@
     "identifier": "45866F10",
     "shares": "6096725.000",
     "sector": "Financials",
-    "price": 231,
-    "originalprice": 231
+    "price": 192,
+    "originalprice": 192
   },
   "SNPS": {
     "ticker": "SNPS",
@@ -1371,8 +1371,8 @@
     "identifier": "87160710",
     "shares": "1662794.000",
     "sector": "Information Technology",
-    "price": 174,
-    "originalprice": 174
+    "price": 103,
+    "originalprice": 103
   },
   "CCI": {
     "ticker": "CCI",
@@ -1382,8 +1382,8 @@
     "identifier": "22822V10",
     "shares": "4716078.000",
     "sector": "Real Estate",
-    "price": 250,
-    "originalprice": 250
+    "price": 72,
+    "originalprice": 72
   },
   "EL": {
     "ticker": "EL",
@@ -1393,8 +1393,8 @@
     "identifier": "51843910",
     "shares": "2527447.000",
     "sector": "Consumer Staples",
-    "price": 236,
-    "originalprice": 236
+    "price": 203,
+    "originalprice": 203
   },
   "CDNS": {
     "ticker": "CDNS",
@@ -1404,8 +1404,8 @@
     "identifier": "12738710",
     "shares": "2992637.000",
     "sector": "Information Technology",
-    "price": 195,
-    "originalprice": 195
+    "price": 196,
+    "originalprice": 196
   },
   "MMM": {
     "ticker": "MMM",
@@ -1415,8 +1415,8 @@
     "identifier": "88579Y10",
     "shares": "6020367.000",
     "sector": "Industrials",
-    "price": 178,
-    "originalprice": 178
+    "price": 105,
+    "originalprice": 105
   },
   "HCA": {
     "ticker": "HCA",
@@ -1426,8 +1426,8 @@
     "identifier": "40412C10",
     "shares": "2309252.000",
     "sector": "Health Care",
-    "price": 149,
-    "originalprice": 149
+    "price": 154,
+    "originalprice": 154
   },
   "KLAC": {
     "ticker": "KLAC",
@@ -1437,8 +1437,8 @@
     "identifier": "48248010",
     "shares": "1510821.000",
     "sector": "Information Technology",
-    "price": 70,
-    "originalprice": 70
+    "price": 246,
+    "originalprice": 246
   },
   "VLO": {
     "ticker": "VLO",
@@ -1448,8 +1448,8 @@
     "identifier": "91913Y10",
     "shares": "4199398.000",
     "sector": "Energy",
-    "price": 57,
-    "originalprice": 57
+    "price": 82,
+    "originalprice": 82
   },
   "ORLY": {
     "ticker": "ORLY",
@@ -1459,8 +1459,8 @@
     "identifier": "67103H10",
     "shares": "681730.000",
     "sector": "Consumer Discretionary",
-    "price": 123,
-    "originalprice": 123
+    "price": 87,
+    "originalprice": 87
   },
   "FDX": {
     "ticker": "FDX",
@@ -1470,8 +1470,8 @@
     "identifier": "31428X10",
     "shares": "2533245.000",
     "sector": "Industrials",
-    "price": 231,
-    "originalprice": 231
+    "price": 179,
+    "originalprice": 179
   },
   "SHW": {
     "ticker": "SHW",
@@ -1481,8 +1481,8 @@
     "identifier": "82434810",
     "shares": "2572686.000",
     "sector": "Materials",
-    "price": 97,
-    "originalprice": 97
+    "price": 164,
+    "originalprice": 164
   },
   "PNC": {
     "ticker": "PNC",
@@ -1492,8 +1492,8 @@
     "identifier": "69347510",
     "shares": "4392872.000",
     "sector": "Financials",
-    "price": 150,
-    "originalprice": 150
+    "price": 66,
+    "originalprice": 66
   },
   "GD": {
     "ticker": "GD",
@@ -1503,8 +1503,8 @@
     "identifier": "36955010",
     "shares": "2455028.000",
     "sector": "Industrials",
-    "price": 209,
-    "originalprice": 209
+    "price": 133,
+    "originalprice": 133
   },
   "EW": {
     "ticker": "EW",
@@ -1514,8 +1514,8 @@
     "identifier": "28176E10",
     "shares": "6737790.000",
     "sector": "Health Care",
-    "price": 50,
-    "originalprice": 50
+    "price": 60,
+    "originalprice": 60
   },
   "GIS": {
     "ticker": "GIS",
@@ -1525,8 +1525,8 @@
     "identifier": "37033410",
     "shares": "6467375.000",
     "sector": "Consumer Staples",
-    "price": 235,
-    "originalprice": 235
+    "price": 120,
+    "originalprice": 120
   },
   "GM": {
     "ticker": "GM",
@@ -1536,8 +1536,8 @@
     "identifier": "37045V10",
     "shares": "15214737.000",
     "sector": "Consumer Discretionary",
-    "price": 119,
-    "originalprice": 119
+    "price": 153,
+    "originalprice": 153
   },
   "USB": {
     "ticker": "USB",
@@ -1547,8 +1547,8 @@
     "identifier": "90297330",
     "shares": "15199195.000",
     "sector": "Financials",
-    "price": 125,
-    "originalprice": 125
+    "price": 245,
+    "originalprice": 245
   },
   "MCK": {
     "ticker": "MCK",
@@ -1558,8 +1558,8 @@
     "identifier": "58155Q10",
     "shares": "1493989.000",
     "sector": "Health Care",
-    "price": 243,
-    "originalprice": 243
+    "price": 119,
+    "originalprice": 119
   },
   "EMR": {
     "ticker": "EMR",
@@ -1569,8 +1569,8 @@
     "identifier": "29101110",
     "shares": "6233398.000",
     "sector": "Industrials",
-    "price": 120,
-    "originalprice": 120
+    "price": 214,
+    "originalprice": 214
   },
   "MRNA": {
     "ticker": "MRNA",
@@ -1580,8 +1580,8 @@
     "identifier": "60770K10",
     "shares": "3597971.000",
     "sector": "Health Care",
-    "price": 236,
-    "originalprice": 236
+    "price": 167,
+    "originalprice": 167
   },
   "F": {
     "ticker": "F",
@@ -1591,8 +1591,8 @@
     "identifier": "34537086",
     "shares": "42860160.000",
     "sector": "Consumer Discretionary",
-    "price": 154,
-    "originalprice": 154
+    "price": 119,
+    "originalprice": 119
   },
   "PXD": {
     "ticker": "PXD",
@@ -1602,8 +1602,8 @@
     "identifier": "72378710",
     "shares": "2590583.000",
     "sector": "Energy",
-    "price": 91,
-    "originalprice": 91
+    "price": 116,
+    "originalprice": 116
   },
   "APH": {
     "ticker": "APH",
@@ -1613,8 +1613,8 @@
     "identifier": "03209510",
     "shares": "6481817.000",
     "sector": "Information Technology",
-    "price": 69,
-    "originalprice": 69
+    "price": 166,
+    "originalprice": 166
   },
   "NSC": {
     "ticker": "NSC",
@@ -1624,8 +1624,8 @@
     "identifier": "65584410",
     "shares": "2485022.000",
     "sector": "Industrials",
-    "price": 150,
-    "originalprice": 150
+    "price": 136,
+    "originalprice": 136
   },
   "MCO": {
     "ticker": "MCO",
@@ -1635,8 +1635,8 @@
     "identifier": "61536910",
     "shares": "1712329.000",
     "sector": "Financials",
-    "price": 247,
-    "originalprice": 247
+    "price": 108,
+    "originalprice": 108
   },
   "MSI": {
     "ticker": "MSI",
@@ -1646,8 +1646,8 @@
     "identifier": "62007630",
     "shares": "1824141.000",
     "sector": "Information Technology",
-    "price": 181,
-    "originalprice": 181
+    "price": 157,
+    "originalprice": 157
   },
   "NXPI": {
     "ticker": "NXPI",
@@ -1657,8 +1657,8 @@
     "identifier": "N6596X10",
     "shares": "2822137.000",
     "sector": "Information Technology",
-    "price": 195,
-    "originalprice": 195
+    "price": 101,
+    "originalprice": 101
   },
   "SRE": {
     "ticker": "SRE",
@@ -1668,8 +1668,8 @@
     "identifier": "81685110",
     "shares": "3423793.000",
     "sector": "Utilities",
-    "price": 238,
-    "originalprice": 238
+    "price": 146,
+    "originalprice": 146
   },
   "PSX": {
     "ticker": "PSX",
@@ -1679,8 +1679,8 @@
     "identifier": "71854610",
     "shares": "5083877.000",
     "sector": "Energy",
-    "price": 147,
-    "originalprice": 147
+    "price": 90,
+    "originalprice": 90
   },
   "PSA": {
     "ticker": "PSA",
@@ -1690,8 +1690,8 @@
     "identifier": "74460D10",
     "shares": "1724509.000",
     "sector": "Real Estate",
-    "price": 206,
-    "originalprice": 206
+    "price": 120,
+    "originalprice": 120
   },
   "DG": {
     "ticker": "DG",
@@ -1701,8 +1701,8 @@
     "identifier": "25667710",
     "shares": "2439044.000",
     "sector": "Consumer Staples",
-    "price": 212,
-    "originalprice": 212
+    "price": 157,
+    "originalprice": 157
   },
   "D": {
     "ticker": "D",
@@ -1712,8 +1712,8 @@
     "identifier": "25746U10",
     "shares": "9090679.000",
     "sector": "Utilities",
-    "price": 106,
-    "originalprice": 106
+    "price": 206,
+    "originalprice": 206
   },
   "AEP": {
     "ticker": "AEP",
@@ -1723,8 +1723,8 @@
     "identifier": "02553710",
     "shares": "5596438.000",
     "sector": "Utilities",
-    "price": 239,
-    "originalprice": 239
+    "price": 207,
+    "originalprice": 207
   },
   "ROP": {
     "ticker": "ROP",
@@ -1734,8 +1734,8 @@
     "identifier": "77669610",
     "shares": "1155166.000",
     "sector": "Information Technology",
-    "price": 104,
-    "originalprice": 104
+    "price": 99,
+    "originalprice": 99
   },
   "CMG": {
     "ticker": "CMG",
@@ -1745,8 +1745,8 @@
     "identifier": "16965610",
     "shares": "301288.000",
     "sector": "Consumer Discretionary",
-    "price": 84,
-    "originalprice": 84
+    "price": 161,
+    "originalprice": 161
   },
   "MCHP": {
     "ticker": "MCHP",
@@ -1756,8 +1756,8 @@
     "identifier": "59501710",
     "shares": "5976886.000",
     "sector": "Information Technology",
-    "price": 126,
-    "originalprice": 126
+    "price": 136,
+    "originalprice": 136
   },
   "OXY": {
     "ticker": "OXY",
@@ -1767,8 +1767,8 @@
     "identifier": "67459910",
     "shares": "7919294.000",
     "sector": "Energy",
-    "price": 204,
-    "originalprice": 204
+    "price": 145,
+    "originalprice": 145
   },
   "AZO": {
     "ticker": "AZO",
@@ -1778,8 +1778,8 @@
     "identifier": "05333210",
     "shares": "204688.000",
     "sector": "Consumer Discretionary",
-    "price": 61,
-    "originalprice": 61
+    "price": 187,
+    "originalprice": 187
   },
   "KMB": {
     "ticker": "KMB",
@@ -1789,8 +1789,8 @@
     "identifier": "49436810",
     "shares": "3682049.000",
     "sector": "Consumer Staples",
-    "price": 164,
-    "originalprice": 164
+    "price": 66,
+    "originalprice": 66
   },
   "TFC": {
     "ticker": "TFC",
@@ -1800,8 +1800,8 @@
     "identifier": "89832Q10",
     "shares": "14450522.000",
     "sector": "Financials",
-    "price": 138,
-    "originalprice": 138
+    "price": 199,
+    "originalprice": 199
   },
   "DXCM": {
     "ticker": "DXCM",
@@ -1811,8 +1811,8 @@
     "identifier": "25213110",
     "shares": "4206900.000",
     "sector": "Health Care",
-    "price": 93,
-    "originalprice": 93
+    "price": 195,
+    "originalprice": 195
   },
   "MSCI": {
     "ticker": "MSCI",
@@ -1822,8 +1822,8 @@
     "identifier": "55354G10",
     "shares": "871068.000",
     "sector": "Financials",
-    "price": 118,
-    "originalprice": 118
+    "price": 53,
+    "originalprice": 53
   },
   "MAR": {
     "ticker": "MAR",
@@ -1833,8 +1833,8 @@
     "identifier": "57190320",
     "shares": "2930662.000",
     "sector": "Consumer Discretionary",
-    "price": 111,
-    "originalprice": 111
+    "price": 51,
+    "originalprice": 51
   },
   "ADM": {
     "ticker": "ADM",
@@ -1844,8 +1844,8 @@
     "identifier": "03948310",
     "shares": "5983230.000",
     "sector": "Consumer Staples",
-    "price": 162,
-    "originalprice": 162
+    "price": 136,
+    "originalprice": 136
   },
   "ADSK": {
     "ticker": "ADSK",
@@ -1855,8 +1855,8 @@
     "identifier": "05276910",
     "shares": "2355794.000",
     "sector": "Information Technology",
-    "price": 147,
-    "originalprice": 147
+    "price": 75,
+    "originalprice": 75
   },
   "PH": {
     "ticker": "PH",
@@ -1866,8 +1866,8 @@
     "identifier": "70109410",
     "shares": "1399321.000",
     "sector": "Industrials",
-    "price": 140,
-    "originalprice": 140
+    "price": 232,
+    "originalprice": 232
   },
   "CTVA": {
     "ticker": "CTVA",
@@ -1877,8 +1877,8 @@
     "identifier": "22052L10",
     "shares": "7792498.000",
     "sector": "Materials",
-    "price": 239,
-    "originalprice": 239
+    "price": 192,
+    "originalprice": 192
   },
   "FTNT": {
     "ticker": "FTNT",
@@ -1888,8 +1888,8 @@
     "identifier": "34959E10",
     "shares": "7061685.000",
     "sector": "Information Technology",
-    "price": 228,
-    "originalprice": 228
+    "price": 52,
+    "originalprice": 52
   },
   "TT": {
     "ticker": "TT",
@@ -1899,8 +1899,8 @@
     "identifier": "G8994E10",
     "shares": "2508235.000",
     "sector": "Industrials",
-    "price": 112,
-    "originalprice": 112
+    "price": 149,
+    "originalprice": 149
   },
   "EXC": {
     "ticker": "EXC",
@@ -1910,8 +1910,8 @@
     "identifier": "30161N10",
     "shares": "10841153.000",
     "sector": "Utilities",
-    "price": 142,
-    "originalprice": 142
+    "price": 96,
+    "originalprice": 96
   },
   "TEL": {
     "ticker": "TEL",
@@ -1921,8 +1921,8 @@
     "identifier": "H8498910",
     "shares": "3471673.000",
     "sector": "Information Technology",
-    "price": 216,
-    "originalprice": 216
+    "price": 73,
+    "originalprice": 73
   },
   "IDXX": {
     "ticker": "IDXX",
@@ -1932,8 +1932,8 @@
     "identifier": "45168D10",
     "shares": "903941.000",
     "sector": "Health Care",
-    "price": 53,
-    "originalprice": 53
+    "price": 155,
+    "originalprice": 155
   },
   "JCI": {
     "ticker": "JCI",
@@ -1943,8 +1943,8 @@
     "identifier": "G5150210",
     "shares": "7475040.000",
     "sector": "Industrials",
-    "price": 140,
-    "originalprice": 140
+    "price": 217,
+    "originalprice": 217
   },
   "ECL": {
     "ticker": "ECL",
@@ -1954,8 +1954,8 @@
     "identifier": "27886510",
     "shares": "2703378.000",
     "sector": "Materials",
-    "price": 220,
-    "originalprice": 220
+    "price": 173,
+    "originalprice": 173
   },
   "CTAS": {
     "ticker": "CTAS",
@@ -1965,8 +1965,8 @@
     "identifier": "17290810",
     "shares": "942299.000",
     "sector": "Industrials",
-    "price": 169,
-    "originalprice": 169
+    "price": 206,
+    "originalprice": 206
   },
   "AJG": {
     "ticker": "AJG",
@@ -1976,8 +1976,8 @@
     "identifier": "36357610",
     "shares": "2313841.000",
     "sector": "Financials",
-    "price": 206,
-    "originalprice": 206
+    "price": 190,
+    "originalprice": 190
   },
   "ANET": {
     "ticker": "ANET",
@@ -1987,8 +1987,8 @@
     "identifier": "04041310",
     "shares": "2700110.000",
     "sector": "Information Technology",
-    "price": 127,
-    "originalprice": 127
+    "price": 58,
+    "originalprice": 58
   },
   "MNST": {
     "ticker": "MNST",
@@ -1998,8 +1998,8 @@
     "identifier": "61174X10",
     "shares": "8295634.000",
     "sector": "Consumer Staples",
-    "price": 232,
-    "originalprice": 232
+    "price": 95,
+    "originalprice": 95
   },
   "A": {
     "ticker": "A",
@@ -2009,8 +2009,8 @@
     "identifier": "00846U10",
     "shares": "3224099.000",
     "sector": "Health Care",
-    "price": 159,
-    "originalprice": 159
+    "price": 235,
+    "originalprice": 235
   },
   "BIIB": {
     "ticker": "BIIB",
@@ -2020,8 +2020,8 @@
     "identifier": "09062X10",
     "shares": "1573117.000",
     "sector": "Health Care",
-    "price": 170,
-    "originalprice": 170
+    "price": 133,
+    "originalprice": 133
   },
   "TRV": {
     "ticker": "TRV",
@@ -2031,8 +2031,8 @@
     "identifier": "89417E10",
     "shares": "2521253.000",
     "sector": "Financials",
-    "price": 98,
-    "originalprice": 98
+    "price": 200,
+    "originalprice": 200
   },
   "O": {
     "ticker": "O",
@@ -2042,8 +2042,8 @@
     "identifier": "75610910",
     "shares": "6831198.000",
     "sector": "Real Estate",
-    "price": 160,
-    "originalprice": 160
+    "price": 215,
+    "originalprice": 215
   },
   "SYY": {
     "ticker": "SYY",
@@ -2053,8 +2053,8 @@
     "identifier": "87182910",
     "shares": "5529755.000",
     "sector": "Consumer Staples",
-    "price": 226,
-    "originalprice": 226
+    "price": 64,
+    "originalprice": 64
   },
   "NEM": {
     "ticker": "NEM",
@@ -2064,8 +2064,8 @@
     "identifier": "65163910",
     "shares": "8659263.000",
     "sector": "Materials",
-    "price": 173,
-    "originalprice": 173
+    "price": 172,
+    "originalprice": 172
   },
   "NUE": {
     "ticker": "NUE",
@@ -2075,8 +2075,8 @@
     "identifier": "67034610",
     "shares": "2760157.000",
     "sector": "Materials",
-    "price": 167,
-    "originalprice": 167
+    "price": 247,
+    "originalprice": 247
   },
   "TDG": {
     "ticker": "TDG",
@@ -2086,8 +2086,8 @@
     "identifier": "89364110",
     "shares": "565826.000",
     "sector": "Industrials",
-    "price": 87,
-    "originalprice": 87
+    "price": 126,
+    "originalprice": 126
   },
   "DOW": {
     "ticker": "DOW",
@@ -2097,8 +2097,8 @@
     "identifier": "26055710",
     "shares": "7664376.000",
     "sector": "Materials",
-    "price": 144,
-    "originalprice": 144
+    "price": 130,
+    "originalprice": 130
   },
   "CARR": {
     "ticker": "CARR",
@@ -2108,8 +2108,8 @@
     "identifier": "14448C10",
     "shares": "9136001.000",
     "sector": "Industrials",
-    "price": 167,
-    "originalprice": 167
+    "price": 140,
+    "originalprice": 140
   },
   "PCAR": {
     "ticker": "PCAR",
@@ -2119,8 +2119,8 @@
     "identifier": "69371810",
     "shares": "5682005.000",
     "sector": "Industrials",
-    "price": 142,
-    "originalprice": 142
+    "price": 210,
+    "originalprice": 210
   },
   "MET": {
     "ticker": "MET",
@@ -2130,8 +2130,8 @@
     "identifier": "59156R10",
     "shares": "7178039.000",
     "sector": "Financials",
-    "price": 186,
-    "originalprice": 186
+    "price": 195,
+    "originalprice": 195
   },
   "HSY": {
     "ticker": "HSY",
@@ -2141,8 +2141,8 @@
     "identifier": "42786610",
     "shares": "1603387.000",
     "sector": "Consumer Staples",
-    "price": 76,
-    "originalprice": 76
+    "price": 175,
+    "originalprice": 175
   },
   "LHX": {
     "ticker": "LHX",
@@ -2163,8 +2163,8 @@
     "identifier": "02687478",
     "shares": "8092704.000",
     "sector": "Financials",
-    "price": 216,
-    "originalprice": 216
+    "price": 212,
+    "originalprice": 212
   },
   "CHTR": {
     "ticker": "CHTR",
@@ -2174,8 +2174,8 @@
     "identifier": "16119P10",
     "shares": "1149123.000",
     "sector": "Communication Services",
-    "price": 157,
-    "originalprice": 157
+    "price": 87,
+    "originalprice": 87
   },
   "HES": {
     "ticker": "HES",
@@ -2185,8 +2185,8 @@
     "identifier": "42809H10",
     "shares": "3027117.000",
     "sector": "Energy",
-    "price": 112,
-    "originalprice": 112
+    "price": 139,
+    "originalprice": 139
   },
   "HLT": {
     "ticker": "HLT",
@@ -2196,8 +2196,8 @@
     "identifier": "43300A20",
     "shares": "2906905.000",
     "sector": "Consumer Discretionary",
-    "price": 140,
-    "originalprice": 140
+    "price": 126,
+    "originalprice": 126
   },
   "XEL": {
     "ticker": "XEL",
@@ -2207,8 +2207,8 @@
     "identifier": "98389B10",
     "shares": "5959981.000",
     "sector": "Utilities",
-    "price": 50,
-    "originalprice": 50
+    "price": 232,
+    "originalprice": 232
   },
   "STZ": {
     "ticker": "STZ",
@@ -2218,8 +2218,8 @@
     "identifier": "21036P10",
     "shares": "1767412.000",
     "sector": "Consumer Staples",
-    "price": 246,
-    "originalprice": 246
+    "price": 51,
+    "originalprice": 51
   },
   "YUM": {
     "ticker": "YUM",
@@ -2229,8 +2229,8 @@
     "identifier": "98849810",
     "shares": "3067557.000",
     "sector": "Consumer Discretionary",
-    "price": 217,
-    "originalprice": 217
+    "price": 146,
+    "originalprice": 146
   },
   "PAYX": {
     "ticker": "PAYX",
@@ -2240,8 +2240,8 @@
     "identifier": "70432610",
     "shares": "3493608.000",
     "sector": "Industrials",
-    "price": 202,
-    "originalprice": 202
+    "price": 74,
+    "originalprice": 74
   },
   "AFL": {
     "ticker": "AFL",
@@ -2251,8 +2251,8 @@
     "identifier": "00105510",
     "shares": "6161955.000",
     "sector": "Financials",
-    "price": 168,
-    "originalprice": 168
+    "price": 97,
+    "originalprice": 97
   },
   "IQV": {
     "ticker": "IQV",
@@ -2262,8 +2262,8 @@
     "identifier": "46266C10",
     "shares": "2023351.000",
     "sector": "Health Care",
-    "price": 134,
-    "originalprice": 134
+    "price": 135,
+    "originalprice": 135
   },
   "COF": {
     "ticker": "COF",
@@ -2273,8 +2273,8 @@
     "identifier": "14040H10",
     "shares": "4166583.000",
     "sector": "Financials",
-    "price": 88,
-    "originalprice": 88
+    "price": 216,
+    "originalprice": 216
   },
   "ROST": {
     "ticker": "ROST",
@@ -2284,8 +2284,8 @@
     "identifier": "77829610",
     "shares": "3793646.000",
     "sector": "Consumer Discretionary",
-    "price": 141,
-    "originalprice": 141
+    "price": 162,
+    "originalprice": 162
   },
   "WMB": {
     "ticker": "WMB",
@@ -2295,8 +2295,8 @@
     "identifier": "96945710",
     "shares": "13224521.000",
     "sector": "Energy",
-    "price": 90,
-    "originalprice": 90
+    "price": 197,
+    "originalprice": 197
   },
   "ILMN": {
     "ticker": "ILMN",
@@ -2306,8 +2306,8 @@
     "identifier": "45232710",
     "shares": "1713130.000",
     "sector": "Health Care",
-    "price": 192,
-    "originalprice": 192
+    "price": 242,
+    "originalprice": 242
   },
   "CNC": {
     "ticker": "CNC",
@@ -2317,8 +2317,8 @@
     "identifier": "15135B10",
     "shares": "6008412.000",
     "sector": "Health Care",
-    "price": 170,
-    "originalprice": 170
+    "price": 230,
+    "originalprice": 230
   },
   "ON": {
     "ticker": "ON",
@@ -2328,8 +2328,8 @@
     "identifier": "68218910",
     "shares": "4701548.000",
     "sector": "Information Technology",
-    "price": 99,
-    "originalprice": 99
+    "price": 171,
+    "originalprice": 171
   },
   "SPG": {
     "ticker": "SPG",
@@ -2339,8 +2339,8 @@
     "identifier": "82880610",
     "shares": "3566858.000",
     "sector": "Real Estate",
-    "price": 177,
-    "originalprice": 177
+    "price": 180,
+    "originalprice": 180
   },
   "OTIS": {
     "ticker": "OTIS",
@@ -2350,8 +2350,8 @@
     "identifier": "68902V10",
     "shares": "4556080.000",
     "sector": "Industrials",
-    "price": 204,
-    "originalprice": 204
+    "price": 231,
+    "originalprice": 231
   },
   "KMI": {
     "ticker": "KMI",
@@ -2361,8 +2361,8 @@
     "identifier": "49456B10",
     "shares": "21518442.000",
     "sector": "Energy",
-    "price": 236,
-    "originalprice": 236
+    "price": 82,
+    "originalprice": 82
   },
   "ED": {
     "ticker": "ED",
@@ -2372,8 +2372,8 @@
     "identifier": "20911510",
     "shares": "3865241.000",
     "sector": "Utilities",
-    "price": 229,
-    "originalprice": 229
+    "price": 235,
+    "originalprice": 235
   },
   "WELL": {
     "ticker": "WELL",
@@ -2383,8 +2383,8 @@
     "identifier": "95040Q10",
     "shares": "5146941.000",
     "sector": "Real Estate",
-    "price": 175,
-    "originalprice": 175
+    "price": 174,
+    "originalprice": 174
   },
   "MTD": {
     "ticker": "MTD",
@@ -2394,8 +2394,8 @@
     "identifier": "59268810",
     "shares": "242637.000",
     "sector": "Health Care",
-    "price": 156,
-    "originalprice": 156
+    "price": 239,
+    "originalprice": 239
   },
   "CMI": {
     "ticker": "CMI",
@@ -2405,8 +2405,8 @@
     "identifier": "23102110",
     "shares": "1541490.000",
     "sector": "Industrials",
-    "price": 209,
-    "originalprice": 209
+    "price": 219,
+    "originalprice": 219
   },
   "ROK": {
     "ticker": "ROK",
@@ -2416,8 +2416,8 @@
     "identifier": "77390310",
     "shares": "1247149.000",
     "sector": "Industrials",
-    "price": 199,
-    "originalprice": 199
+    "price": 131,
+    "originalprice": 131
   },
   "BK": {
     "ticker": "BK",
@@ -2427,8 +2427,8 @@
     "identifier": "06405810",
     "shares": "7981575.000",
     "sector": "Financials",
-    "price": 73,
-    "originalprice": 73
+    "price": 181,
+    "originalprice": 181
   },
   "WBD": {
     "ticker": "WBD",
@@ -2438,8 +2438,8 @@
     "identifier": "93442310",
     "shares": "24108186.000",
     "sector": "Communication Services",
-    "price": 109,
-    "originalprice": 109
+    "price": 159,
+    "originalprice": 159
   },
   "AME": {
     "ticker": "AME",
@@ -2449,8 +2449,8 @@
     "identifier": "03110010",
     "shares": "2505430.000",
     "sector": "Industrials",
-    "price": 168,
-    "originalprice": 168
+    "price": 141,
+    "originalprice": 141
   },
   "DVN": {
     "ticker": "DVN",
@@ -2460,8 +2460,8 @@
     "identifier": "25179M10",
     "shares": "7107124.000",
     "sector": "Energy",
-    "price": 133,
-    "originalprice": 133
+    "price": 230,
+    "originalprice": 230
   },
   "DD": {
     "ticker": "DD",
@@ -2471,8 +2471,8 @@
     "identifier": "26614N10",
     "shares": "4997885.000",
     "sector": "Materials",
-    "price": 53,
-    "originalprice": 53
+    "price": 230,
+    "originalprice": 230
   },
   "AMP": {
     "ticker": "AMP",
@@ -2482,8 +2482,8 @@
     "identifier": "03076C10",
     "shares": "1158861.000",
     "sector": "Financials",
-    "price": 126,
-    "originalprice": 126
+    "price": 55,
+    "originalprice": 55
   },
   "VICI": {
     "ticker": "VICI",
@@ -2504,8 +2504,8 @@
     "identifier": "50104410",
     "shares": "7096571.000",
     "sector": "Consumer Staples",
-    "price": 176,
-    "originalprice": 176
+    "price": 224,
+    "originalprice": 224
   },
   "RMD": {
     "ticker": "RMD",
@@ -2515,8 +2515,8 @@
     "identifier": "76115210",
     "shares": "1595689.000",
     "sector": "Health Care",
-    "price": 155,
-    "originalprice": 155
+    "price": 186,
+    "originalprice": 186
   },
   "CPRT": {
     "ticker": "CPRT",
@@ -2526,8 +2526,8 @@
     "identifier": "21720410",
     "shares": "4667505.000",
     "sector": "Industrials",
-    "price": 142,
-    "originalprice": 142
+    "price": 170,
+    "originalprice": 170
   },
   "EA": {
     "ticker": "EA",
@@ -2537,8 +2537,8 @@
     "identifier": "28551210",
     "shares": "2867032.000",
     "sector": "Communication Services",
-    "price": 154,
-    "originalprice": 154
+    "price": 226,
+    "originalprice": 226
   },
   "FIS": {
     "ticker": "FIS",
@@ -2548,8 +2548,8 @@
     "identifier": "31620M10",
     "shares": "6463279.000",
     "sector": "Financials",
-    "price": 54,
-    "originalprice": 54
+    "price": 147,
+    "originalprice": 147
   },
   "PEG": {
     "ticker": "PEG",
@@ -2559,8 +2559,8 @@
     "identifier": "74457310",
     "shares": "5435433.000",
     "sector": "Utilities",
-    "price": 61,
-    "originalprice": 61
+    "price": 113,
+    "originalprice": 113
   },
   "CTSH": {
     "ticker": "CTSH",
@@ -2570,8 +2570,8 @@
     "identifier": "19244610",
     "shares": "5613898.000",
     "sector": "Information Technology",
-    "price": 151,
-    "originalprice": 151
+    "price": 69,
+    "originalprice": 69
   },
   "KHC": {
     "ticker": "KHC",
@@ -2581,8 +2581,8 @@
     "identifier": "50075410",
     "shares": "8644471.000",
     "sector": "Consumer Staples",
-    "price": 178,
-    "originalprice": 178
+    "price": 240,
+    "originalprice": 240
   },
   "PPG": {
     "ticker": "PPG",
@@ -2592,8 +2592,8 @@
     "identifier": "69350610",
     "shares": "2550944.000",
     "sector": "Materials",
-    "price": 140,
-    "originalprice": 140
+    "price": 145,
+    "originalprice": 145
   },
   "ODFL": {
     "ticker": "ODFL",
@@ -2603,8 +2603,8 @@
     "identifier": "67958010",
     "shares": "986700.000",
     "sector": "Industrials",
-    "price": 113,
-    "originalprice": 113
+    "price": 124,
+    "originalprice": 124
   },
   "FAST": {
     "ticker": "FAST",
@@ -2614,8 +2614,8 @@
     "identifier": "31190010",
     "shares": "6227513.000",
     "sector": "Industrials",
-    "price": 128,
-    "originalprice": 128
+    "price": 145,
+    "originalprice": 145
   },
   "GWW": {
     "ticker": "GWW",
@@ -2625,8 +2625,8 @@
     "identifier": "38480210",
     "shares": "491451.000",
     "sector": "Industrials",
-    "price": 220,
-    "originalprice": 220
+    "price": 182,
+    "originalprice": 182
   },
   "PRU": {
     "ticker": "PRU",
@@ -2636,8 +2636,8 @@
     "identifier": "74432010",
     "shares": "4007953.000",
     "sector": "Financials",
-    "price": 135,
-    "originalprice": 135
+    "price": 72,
+    "originalprice": 72
   },
   "VRSK": {
     "ticker": "VRSK",
@@ -2647,8 +2647,8 @@
     "identifier": "92345Y10",
     "shares": "1703787.000",
     "sector": "Industrials",
-    "price": 55,
-    "originalprice": 55
+    "price": 95,
+    "originalprice": 95
   },
   "GEHC": {
     "ticker": "GEHC",
@@ -2658,8 +2658,8 @@
     "identifier": "36266G10",
     "shares": "3954358.000",
     "sector": "Health Care",
-    "price": 209,
-    "originalprice": 209
+    "price": 196,
+    "originalprice": 196
   },
   "DHI": {
     "ticker": "DHI",
@@ -2669,8 +2669,8 @@
     "identifier": "23331A10",
     "shares": "3408748.000",
     "sector": "Consumer Discretionary",
-    "price": 158,
-    "originalprice": 158
+    "price": 205,
+    "originalprice": 205
   },
   "WEC": {
     "ticker": "WEC",
@@ -2680,8 +2680,8 @@
     "identifier": "92939U10",
     "shares": "3435559.000",
     "sector": "Utilities",
-    "price": 247,
-    "originalprice": 247
+    "price": 82,
+    "originalprice": 82
   },
   "APTV": {
     "ticker": "APTV",
@@ -2691,8 +2691,8 @@
     "identifier": "G6095L10",
     "shares": "2951348.000",
     "sector": "Consumer Discretionary",
-    "price": 203,
-    "originalprice": 203
+    "price": 219,
+    "originalprice": 219
   },
   "KDP": {
     "ticker": "KDP",
@@ -2702,8 +2702,8 @@
     "identifier": "49271V10",
     "shares": "9220193.000",
     "sector": "Consumer Staples",
-    "price": 192,
-    "originalprice": 192
+    "price": 146,
+    "originalprice": 146
   },
   "DLTR": {
     "ticker": "DLTR",
@@ -2713,8 +2713,8 @@
     "identifier": "25674610",
     "shares": "2291073.000",
     "sector": "Consumer Staples",
-    "price": 208,
-    "originalprice": 208
+    "price": 217,
+    "originalprice": 217
   },
   "ALL": {
     "ticker": "ALL",
@@ -2724,8 +2724,8 @@
     "identifier": "02000210",
     "shares": "2888402.000",
     "sector": "Financials",
-    "price": 93,
-    "originalprice": 93
+    "price": 205,
+    "originalprice": 205
   },
   "BKR": {
     "ticker": "BKR",
@@ -2735,8 +2735,8 @@
     "identifier": "05722G10",
     "shares": "10906685.000",
     "sector": "Energy",
-    "price": 228,
-    "originalprice": 228
+    "price": 248,
+    "originalprice": 248
   },
   "ANSS": {
     "ticker": "ANSS",
@@ -2746,8 +2746,8 @@
     "identifier": "03662Q10",
     "shares": "950315.000",
     "sector": "Information Technology",
-    "price": 154,
-    "originalprice": 154
+    "price": 128,
+    "originalprice": 128
   },
   "KEYS": {
     "ticker": "KEYS",
@@ -2757,8 +2757,8 @@
     "identifier": "49338L10",
     "shares": "1953436.000",
     "sector": "Information Technology",
-    "price": 82,
-    "originalprice": 82
+    "price": 205,
+    "originalprice": 205
   },
   "HAL": {
     "ticker": "HAL",
@@ -2768,8 +2768,8 @@
     "identifier": "40621610",
     "shares": "9890623.000",
     "sector": "Energy",
-    "price": 135,
-    "originalprice": 135
+    "price": 200,
+    "originalprice": 200
   },
   "AWK": {
     "ticker": "AWK",
@@ -2779,8 +2779,8 @@
     "identifier": "03042010",
     "shares": "2105195.000",
     "sector": "Utilities",
-    "price": 115,
-    "originalprice": 115
+    "price": 177,
+    "originalprice": 177
   },
   "OKE": {
     "ticker": "OKE",
@@ -2790,8 +2790,8 @@
     "identifier": "68268010",
     "shares": "4868228.000",
     "sector": "Energy",
-    "price": 122,
-    "originalprice": 122
+    "price": 99,
+    "originalprice": 99
   },
   "ENPH": {
     "ticker": "ENPH",
@@ -2801,8 +2801,8 @@
     "identifier": "29355A10",
     "shares": "1482823.000",
     "sector": "Information Technology",
-    "price": 172,
-    "originalprice": 172
+    "price": 166,
+    "originalprice": 166
   },
   "SBAC": {
     "ticker": "SBAC",
@@ -2812,8 +2812,8 @@
     "identifier": "78410G10",
     "shares": "1177824.000",
     "sector": "Real Estate",
-    "price": 124,
-    "originalprice": 124
+    "price": 212,
+    "originalprice": 212
   },
   "CSGP": {
     "ticker": "CSGP",
@@ -2823,8 +2823,8 @@
     "identifier": "22160N10",
     "shares": "4429716.000",
     "sector": "Industrials",
-    "price": 211,
-    "originalprice": 211
+    "price": 127,
+    "originalprice": 127
   },
   "RSG": {
     "ticker": "RSG",
@@ -2834,8 +2834,8 @@
     "identifier": "76075910",
     "shares": "2229429.000",
     "sector": "Industrials",
-    "price": 101,
-    "originalprice": 101
+    "price": 131,
+    "originalprice": 131
   },
   "ULTA": {
     "ticker": "ULTA",
@@ -2845,8 +2845,8 @@
     "identifier": "90384S30",
     "shares": "557632.000",
     "sector": "Consumer Discretionary",
-    "price": 168,
-    "originalprice": 168
+    "price": 120,
+    "originalprice": 120
   },
   "ES": {
     "ticker": "ES",
@@ -2856,8 +2856,8 @@
     "identifier": "30040W10",
     "shares": "3799858.000",
     "sector": "Utilities",
-    "price": 220,
-    "originalprice": 220
+    "price": 125,
+    "originalprice": 125
   },
   "GPN": {
     "ticker": "GPN",
@@ -2867,8 +2867,8 @@
     "identifier": "37940X10",
     "shares": "2870069.000",
     "sector": "Financials",
-    "price": 196,
-    "originalprice": 196
+    "price": 103,
+    "originalprice": 103
   },
   "DLR": {
     "ticker": "DLR",
@@ -2878,8 +2878,8 @@
     "identifier": "25386810",
     "shares": "3119051.000",
     "sector": "Real Estate",
-    "price": 222,
-    "originalprice": 222
+    "price": 112,
+    "originalprice": 112
   },
   "URI": {
     "ticker": "URI",
@@ -2889,8 +2889,8 @@
     "identifier": "91136310",
     "shares": "754706.000",
     "sector": "Industrials",
-    "price": 154,
-    "originalprice": 154
+    "price": 247,
+    "originalprice": 247
   },
   "EIX": {
     "ticker": "EIX",
@@ -2900,8 +2900,8 @@
     "identifier": "28102010",
     "shares": "4159583.000",
     "sector": "Utilities",
-    "price": 204,
-    "originalprice": 204
+    "price": 179,
+    "originalprice": 179
   },
   "ZBH": {
     "ticker": "ZBH",
@@ -2911,8 +2911,8 @@
     "identifier": "98956P10",
     "shares": "2285594.000",
     "sector": "Health Care",
-    "price": 135,
-    "originalprice": 135
+    "price": 244,
+    "originalprice": 244
   },
   "GLW": {
     "ticker": "GLW",
@@ -2922,8 +2922,8 @@
     "identifier": "21935010",
     "shares": "8304658.000",
     "sector": "Information Technology",
-    "price": 143,
-    "originalprice": 143
+    "price": 117,
+    "originalprice": 117
   },
   "DFS": {
     "ticker": "DFS",
@@ -2933,8 +2933,8 @@
     "identifier": "25470910",
     "shares": "2912782.000",
     "sector": "Financials",
-    "price": 211,
-    "originalprice": 211
+    "price": 212,
+    "originalprice": 212
   },
   "STT": {
     "ticker": "STT",
@@ -2944,8 +2944,8 @@
     "identifier": "85747710",
     "shares": "3807668.000",
     "sector": "Financials",
-    "price": 186,
-    "originalprice": 186
+    "price": 155,
+    "originalprice": 155
   },
   "ALB": {
     "ticker": "ALB",
@@ -2955,8 +2955,8 @@
     "identifier": "01265310",
     "shares": "1275826.000",
     "sector": "Materials",
-    "price": 93,
-    "originalprice": 93
+    "price": 57,
+    "originalprice": 57
   },
   "LEN": {
     "ticker": "LEN",
@@ -2966,8 +2966,8 @@
     "identifier": "52605710",
     "shares": "2767187.000",
     "sector": "Consumer Discretionary",
-    "price": 84,
-    "originalprice": 84
+    "price": 56,
+    "originalprice": 56
   },
   "ABC": {
     "ticker": "ABC",
@@ -2977,8 +2977,8 @@
     "identifier": "03073E10",
     "shares": "1764182.000",
     "sector": "Health Care",
-    "price": 243,
-    "originalprice": 243
+    "price": 80,
+    "originalprice": 80
   },
   "CDW": {
     "ticker": "CDW",
@@ -2988,8 +2988,8 @@
     "identifier": "12514G10",
     "shares": "1477062.000",
     "sector": "Information Technology",
-    "price": 249,
-    "originalprice": 249
+    "price": 67,
+    "originalprice": 67
   },
   "PCG": {
     "ticker": "PCG",
@@ -2999,8 +2999,8 @@
     "identifier": "69331C10",
     "shares": "17536160.000",
     "sector": "Utilities",
-    "price": 181,
-    "originalprice": 181
+    "price": 79,
+    "originalprice": 79
   },
   "TSCO": {
     "ticker": "TSCO",
@@ -3010,8 +3010,8 @@
     "identifier": "89235610",
     "shares": "1204671.000",
     "sector": "Consumer Discretionary",
-    "price": 131,
-    "originalprice": 131
+    "price": 193,
+    "originalprice": 193
   },
   "WST": {
     "ticker": "WST",
@@ -3021,8 +3021,8 @@
     "identifier": "95530610",
     "shares": "807618.000",
     "sector": "Health Care",
-    "price": 76,
-    "originalprice": 76
+    "price": 229,
+    "originalprice": 229
   },
   "IT": {
     "ticker": "IT",
@@ -3032,8 +3032,8 @@
     "identifier": "36665110",
     "shares": "858615.000",
     "sector": "Information Technology",
-    "price": 95,
-    "originalprice": 95
+    "price": 150,
+    "originalprice": 150
   },
   "CEG": {
     "ticker": "CEG",
@@ -3043,8 +3043,8 @@
     "identifier": "21037T10",
     "shares": "3561136.000",
     "sector": "Utilities",
-    "price": 171,
-    "originalprice": 171
+    "price": 161,
+    "originalprice": 161
   },
   "ACGL": {
     "ticker": "ACGL",
@@ -3054,8 +3054,8 @@
     "identifier": "G0450A10",
     "shares": "4028726.000",
     "sector": "Financials",
-    "price": 67,
-    "originalprice": 67
+    "price": 70,
+    "originalprice": 70
   },
   "HPQ": {
     "ticker": "HPQ",
@@ -3065,8 +3065,8 @@
     "identifier": "40434L10",
     "shares": "9428910.000",
     "sector": "Information Technology",
-    "price": 128,
-    "originalprice": 128
+    "price": 69,
+    "originalprice": 69
   },
   "WBA": {
     "ticker": "WBA",
@@ -3076,8 +3076,8 @@
     "identifier": "93142710",
     "shares": "7818292.000",
     "sector": "Consumer Staples",
-    "price": 156,
-    "originalprice": 156
+    "price": 205,
+    "originalprice": 205
   },
   "TROW": {
     "ticker": "TROW",
@@ -3087,8 +3087,8 @@
     "identifier": "74144T10",
     "shares": "2447524.000",
     "sector": "Financials",
-    "price": 90,
-    "originalprice": 90
+    "price": 202,
+    "originalprice": 202
   },
   "WTW": {
     "ticker": "WTW",
@@ -3098,8 +3098,8 @@
     "identifier": "G9662910",
     "shares": "1178642.000",
     "sector": "Financials",
-    "price": 86,
-    "originalprice": 86
+    "price": 209,
+    "originalprice": 209
   },
   "FANG": {
     "ticker": "FANG",
@@ -3109,8 +3109,8 @@
     "identifier": "25278X10",
     "shares": "2004955.000",
     "sector": "Energy",
-    "price": 203,
-    "originalprice": 203
+    "price": 202,
+    "originalprice": 202
   },
   "EFX": {
     "ticker": "EFX",
@@ -3120,8 +3120,8 @@
     "identifier": "29442910",
     "shares": "1333530.000",
     "sector": "Industrials",
-    "price": 116,
-    "originalprice": 116
+    "price": 121,
+    "originalprice": 121
   },
   "PWR": {
     "ticker": "PWR",
@@ -3131,8 +3131,8 @@
     "identifier": "74762E10",
     "shares": "1559005.000",
     "sector": "Industrials",
-    "price": 194,
-    "originalprice": 194
+    "price": 155,
+    "originalprice": 155
   },
   "EBAY": {
     "ticker": "EBAY",
@@ -3142,8 +3142,8 @@
     "identifier": "27864210",
     "shares": "5910227.000",
     "sector": "Consumer Discretionary",
-    "price": 159,
-    "originalprice": 159
+    "price": 236,
+    "originalprice": 236
   },
   "FTV": {
     "ticker": "FTV",
@@ -3153,8 +3153,8 @@
     "identifier": "34959J10",
     "shares": "3852324.000",
     "sector": "Industrials",
-    "price": 195,
-    "originalprice": 195
+    "price": 160,
+    "originalprice": 160
   },
   "LYB": {
     "ticker": "LYB",
@@ -3164,8 +3164,8 @@
     "identifier": "N5374510",
     "shares": "2761887.000",
     "sector": "Materials",
-    "price": 183,
-    "originalprice": 183
+    "price": 125,
+    "originalprice": 125
   },
   "IR": {
     "ticker": "IR",
@@ -3175,8 +3175,8 @@
     "identifier": "45687V10",
     "shares": "4417557.000",
     "sector": "Industrials",
-    "price": 183,
-    "originalprice": 183
+    "price": 73,
+    "originalprice": 73
   },
   "GPC": {
     "ticker": "GPC",
@@ -3186,8 +3186,8 @@
     "identifier": "37246010",
     "shares": "1539976.000",
     "sector": "Consumer Discretionary",
-    "price": 107,
-    "originalprice": 107
+    "price": 168,
+    "originalprice": 168
   },
   "IFF": {
     "ticker": "IFF",
@@ -3197,8 +3197,8 @@
     "identifier": "45950610",
     "shares": "2776841.000",
     "sector": "Materials",
-    "price": 246,
-    "originalprice": 246
+    "price": 150,
+    "originalprice": 150
   },
   "AVB": {
     "ticker": "AVB",
@@ -3208,8 +3208,8 @@
     "identifier": "05348410",
     "shares": "1523943.000",
     "sector": "Real Estate",
-    "price": 122,
-    "originalprice": 122
+    "price": 200,
+    "originalprice": 200
   },
   "ALGN": {
     "ticker": "ALGN",
@@ -3219,8 +3219,8 @@
     "identifier": "01625510",
     "shares": "789944.000",
     "sector": "Health Care",
-    "price": 244,
-    "originalprice": 244
+    "price": 198,
+    "originalprice": 198
   },
   "VMC": {
     "ticker": "VMC",
@@ -3230,8 +3230,8 @@
     "identifier": "92916010",
     "shares": "1447702.000",
     "sector": "Materials",
-    "price": 193,
-    "originalprice": 193
+    "price": 110,
+    "originalprice": 110
   },
   "CBRE": {
     "ticker": "CBRE",
@@ -3241,8 +3241,8 @@
     "identifier": "12504L10",
     "shares": "3441023.000",
     "sector": "Real Estate",
-    "price": 113,
-    "originalprice": 113
+    "price": 119,
+    "originalprice": 119
   },
   "AEE": {
     "ticker": "AEE",
@@ -3252,8 +3252,8 @@
     "identifier": "02360810",
     "shares": "2815727.000",
     "sector": "Utilities",
-    "price": 54,
-    "originalprice": 54
+    "price": 80,
+    "originalprice": 80
   },
   "MPWR": {
     "ticker": "MPWR",
@@ -3263,8 +3263,8 @@
     "identifier": "60983910",
     "shares": "488226.000",
     "sector": "Information Technology",
-    "price": 209,
-    "originalprice": 209
+    "price": 190,
+    "originalprice": 190
   },
   "PODD": {
     "ticker": "PODD",
@@ -3274,8 +3274,8 @@
     "identifier": "45784P10",
     "shares": "759201.000",
     "sector": "Health Care",
-    "price": 66,
-    "originalprice": 66
+    "price": 187,
+    "originalprice": 187
   },
   "HIG": {
     "ticker": "HIG",
@@ -3285,8 +3285,8 @@
     "identifier": "41651510",
     "shares": "3464256.000",
     "sector": "Financials",
-    "price": 247,
-    "originalprice": 247
+    "price": 55,
+    "originalprice": 55
   },
   "DAL": {
     "ticker": "DAL",
@@ -3296,8 +3296,8 @@
     "identifier": "24736170",
     "shares": "6995599.000",
     "sector": "Industrials",
-    "price": 235,
-    "originalprice": 235
+    "price": 90,
+    "originalprice": 90
   },
   "ETR": {
     "ticker": "ETR",
@@ -3307,8 +3307,8 @@
     "identifier": "29364G10",
     "shares": "2219911.000",
     "sector": "Utilities",
-    "price": 83,
-    "originalprice": 83
+    "price": 67,
+    "originalprice": 67
   },
   "MLM": {
     "ticker": "MLM",
@@ -3318,8 +3318,8 @@
     "identifier": "57328410",
     "shares": "677353.000",
     "sector": "Materials",
-    "price": 158,
-    "originalprice": 158
+    "price": 202,
+    "originalprice": 202
   },
   "WY": {
     "ticker": "WY",
@@ -3329,8 +3329,8 @@
     "identifier": "96216610",
     "shares": "8060207.000",
     "sector": "Real Estate",
-    "price": 134,
-    "originalprice": 134
+    "price": 126,
+    "originalprice": 126
   },
   "FE": {
     "ticker": "FE",
@@ -3340,8 +3340,8 @@
     "identifier": "33793210",
     "shares": "5891753.000",
     "sector": "Utilities",
-    "price": 126,
-    "originalprice": 126
+    "price": 198,
+    "originalprice": 198
   },
   "EXR": {
     "ticker": "EXR",
@@ -3351,8 +3351,8 @@
     "identifier": "30225T10",
     "shares": "1461071.000",
     "sector": "Real Estate",
-    "price": 250,
-    "originalprice": 250
+    "price": 136,
+    "originalprice": 136
   },
   "CHD": {
     "ticker": "CHD",
@@ -3362,8 +3362,8 @@
     "identifier": "17134010",
     "shares": "2660462.000",
     "sector": "Consumer Staples",
-    "price": 59,
-    "originalprice": 59
+    "price": 124,
+    "originalprice": 124
   },
   "FSLR": {
     "ticker": "FSLR",
@@ -3373,8 +3373,8 @@
     "identifier": "33643310",
     "shares": "1079862.000",
     "sector": "Information Technology",
-    "price": 156,
-    "originalprice": 156
+    "price": 171,
+    "originalprice": 171
   },
   "DTE": {
     "ticker": "DTE",
@@ -3384,8 +3384,8 @@
     "identifier": "23333110",
     "shares": "2113617.000",
     "sector": "Utilities",
-    "price": 218,
-    "originalprice": 218
+    "price": 237,
+    "originalprice": 237
   },
   "DOV": {
     "ticker": "DOV",
@@ -3395,8 +3395,8 @@
     "identifier": "26000310",
     "shares": "1528274.000",
     "sector": "Industrials",
-    "price": 132,
-    "originalprice": 132
+    "price": 170,
+    "originalprice": 170
   },
   "TDY": {
     "ticker": "TDY",
@@ -3406,8 +3406,8 @@
     "identifier": "87936010",
     "shares": "511297.000",
     "sector": "Information Technology",
-    "price": 211,
-    "originalprice": 211
+    "price": 242,
+    "originalprice": 242
   },
   "BAX": {
     "ticker": "BAX",
@@ -3417,8 +3417,8 @@
     "identifier": "07181310",
     "shares": "5505743.000",
     "sector": "Health Care",
-    "price": 242,
-    "originalprice": 242
+    "price": 137,
+    "originalprice": 137
   },
   "MKC": {
     "ticker": "MKC",
@@ -3428,8 +3428,8 @@
     "identifier": "57978020",
     "shares": "2729623.000",
     "sector": "Consumer Staples",
-    "price": 201,
-    "originalprice": 201
+    "price": 55,
+    "originalprice": 55
   },
   "MTB": {
     "ticker": "MTB",
@@ -3439,8 +3439,8 @@
     "identifier": "55261F10",
     "shares": "1846856.000",
     "sector": "Financials",
-    "price": 123,
-    "originalprice": 123
+    "price": 53,
+    "originalprice": 53
   },
   "HPE": {
     "ticker": "HPE",
@@ -3450,8 +3450,8 @@
     "identifier": "42824C10",
     "shares": "14046833.000",
     "sector": "Information Technology",
-    "price": 200,
-    "originalprice": 200
+    "price": 214,
+    "originalprice": 214
   },
   "PPL": {
     "ticker": "PPL",
@@ -3461,8 +3461,8 @@
     "identifier": "69351T10",
     "shares": "7981482.000",
     "sector": "Utilities",
-    "price": 109,
-    "originalprice": 109
+    "price": 73,
+    "originalprice": 73
   },
   "HOLX": {
     "ticker": "HOLX",
@@ -3472,8 +3472,8 @@
     "identifier": "43644010",
     "shares": "2719531.000",
     "sector": "Health Care",
-    "price": 76,
-    "originalprice": 76
+    "price": 241,
+    "originalprice": 241
   },
   "EQR": {
     "ticker": "EQR",
@@ -3483,8 +3483,8 @@
     "identifier": "29476L10",
     "shares": "3715624.000",
     "sector": "Real Estate",
-    "price": 88,
-    "originalprice": 88
+    "price": 69,
+    "originalprice": 69
   },
   "LH": {
     "ticker": "LH",
@@ -3494,8 +3494,8 @@
     "identifier": "50540R40",
     "shares": "965104.000",
     "sector": "Health Care",
-    "price": 181,
-    "originalprice": 181
+    "price": 74,
+    "originalprice": 74
   },
   "CAH": {
     "ticker": "CAH",
@@ -3505,8 +3505,8 @@
     "identifier": "14149Y10",
     "shares": "2854984.000",
     "sector": "Health Care",
-    "price": 102,
-    "originalprice": 102
+    "price": 106,
+    "originalprice": 106
   },
   "ARE": {
     "ticker": "ARE",
@@ -3516,8 +3516,8 @@
     "identifier": "01527110",
     "shares": "1718318.000",
     "sector": "Real Estate",
-    "price": 168,
-    "originalprice": 168
+    "price": 139,
+    "originalprice": 139
   },
   "VRSN": {
     "ticker": "VRSN",
@@ -3527,8 +3527,8 @@
     "identifier": "92343E10",
     "shares": "1013011.000",
     "sector": "Information Technology",
-    "price": 218,
-    "originalprice": 218
+    "price": 57,
+    "originalprice": 57
   },
   "CLX": {
     "ticker": "CLX",
@@ -3538,8 +3538,8 @@
     "identifier": "18905410",
     "shares": "1347584.000",
     "sector": "Consumer Staples",
-    "price": 127,
-    "originalprice": 127
+    "price": 183,
+    "originalprice": 183
   },
   "CTRA": {
     "ticker": "CTRA",
@@ -3549,8 +3549,8 @@
     "identifier": "12709710",
     "shares": "8628002.000",
     "sector": "Energy",
-    "price": 204,
-    "originalprice": 204
+    "price": 174,
+    "originalprice": 174
   },
   "OMC": {
     "ticker": "OMC",
@@ -3560,8 +3560,8 @@
     "identifier": "68191910",
     "shares": "2221415.000",
     "sector": "Communication Services",
-    "price": 111,
-    "originalprice": 111
+    "price": 79,
+    "originalprice": 79
   },
   "LUV": {
     "ticker": "LUV",
@@ -3571,8 +3571,8 @@
     "identifier": "84474110",
     "shares": "6467472.000",
     "sector": "Industrials",
-    "price": 125,
-    "originalprice": 125
+    "price": 116,
+    "originalprice": 116
   },
   "DRI": {
     "ticker": "DRI",
@@ -3582,8 +3582,8 @@
     "identifier": "23719410",
     "shares": "1330615.000",
     "sector": "Consumer Discretionary",
-    "price": 139,
-    "originalprice": 139
+    "price": 110,
+    "originalprice": 110
   },
   "SWKS": {
     "ticker": "SWKS",
@@ -3593,8 +3593,8 @@
     "identifier": "83088M10",
     "shares": "1739722.000",
     "sector": "Information Technology",
-    "price": 76,
-    "originalprice": 76
+    "price": 77,
+    "originalprice": 77
   },
   "STE": {
     "ticker": "STE",
@@ -3604,8 +3604,8 @@
     "identifier": "G8473T10",
     "shares": "1080611.000",
     "sector": "Health Care",
-    "price": 204,
-    "originalprice": 204
+    "price": 209,
+    "originalprice": 209
   },
   "TTWO": {
     "ticker": "TTWO",
@@ -3615,8 +3615,8 @@
     "identifier": "87405410",
     "shares": "1729727.000",
     "sector": "Communication Services",
-    "price": 240,
-    "originalprice": 240
+    "price": 137,
+    "originalprice": 137
   },
   "CNP": {
     "ticker": "CNP",
@@ -3626,8 +3626,8 @@
     "identifier": "15189T10",
     "shares": "6867870.000",
     "sector": "Utilities",
-    "price": 57,
-    "originalprice": 57
+    "price": 113,
+    "originalprice": 113
   },
   "XYL": {
     "ticker": "XYL",
@@ -3637,8 +3637,8 @@
     "identifier": "98419M10",
     "shares": "1966503.000",
     "sector": "Industrials",
-    "price": 109,
-    "originalprice": 109
+    "price": 236,
+    "originalprice": 236
   },
   "STLD": {
     "ticker": "STLD",
@@ -3648,8 +3648,8 @@
     "identifier": "85811910",
     "shares": "1807931.000",
     "sector": "Materials",
-    "price": 173,
-    "originalprice": 173
+    "price": 122,
+    "originalprice": 122
   },
   "NDAQ": {
     "ticker": "NDAQ",
@@ -3659,8 +3659,8 @@
     "identifier": "63110310",
     "shares": "3679262.000",
     "sector": "Financials",
-    "price": 241,
-    "originalprice": 241
+    "price": 242,
+    "originalprice": 242
   },
   "LVS": {
     "ticker": "LVS",
@@ -3670,8 +3670,8 @@
     "identifier": "51783410",
     "shares": "3565657.000",
     "sector": "Consumer Discretionary",
-    "price": 174,
-    "originalprice": 174
+    "price": 154,
+    "originalprice": 154
   },
   "WAT": {
     "ticker": "WAT",
@@ -3681,8 +3681,8 @@
     "identifier": "94184810",
     "shares": "649736.000",
     "sector": "Health Care",
-    "price": 183,
-    "originalprice": 183
+    "price": 92,
+    "originalprice": 92
   },
   "COO": {
     "ticker": "COO",
@@ -3692,8 +3692,8 @@
     "identifier": "21664840",
     "shares": "538386.000",
     "sector": "Health Care",
-    "price": 86,
-    "originalprice": 86
+    "price": 215,
+    "originalprice": 215
   },
   "NTRS": {
     "ticker": "NTRS",
@@ -3703,8 +3703,8 @@
     "identifier": "66585910",
     "shares": "2273779.000",
     "sector": "Financials",
-    "price": 192,
-    "originalprice": 192
+    "price": 97,
+    "originalprice": 97
   },
   "FITB": {
     "ticker": "FITB",
@@ -3714,8 +3714,8 @@
     "identifier": "31677310",
     "shares": "7476444.000",
     "sector": "Financials",
-    "price": 154,
-    "originalprice": 154
+    "price": 240,
+    "originalprice": 240
   },
   "WAB": {
     "ticker": "WAB",
@@ -3725,8 +3725,8 @@
     "identifier": "92974010",
     "shares": "1974221.000",
     "sector": "Industrials",
-    "price": 224,
-    "originalprice": 224
+    "price": 125,
+    "originalprice": 125
   },
   "CMS": {
     "ticker": "CMS",
@@ -3736,8 +3736,8 @@
     "identifier": "12589610",
     "shares": "3177565.000",
     "sector": "Utilities",
-    "price": 81,
-    "originalprice": 81
+    "price": 66,
+    "originalprice": 66
   },
   "VTR": {
     "ticker": "VTR",
@@ -3747,8 +3747,8 @@
     "identifier": "92276F10",
     "shares": "4363685.000",
     "sector": "Real Estate",
-    "price": 190,
-    "originalprice": 190
+    "price": 185,
+    "originalprice": 185
   },
   "RJF": {
     "ticker": "RJF",
@@ -3758,8 +3758,8 @@
     "identifier": "75473010",
     "shares": "2103149.000",
     "sector": "Financials",
-    "price": 150,
-    "originalprice": 150
+    "price": 190,
+    "originalprice": 190
   },
   "INVH": {
     "ticker": "INVH",
@@ -3769,8 +3769,8 @@
     "identifier": "46187W10",
     "shares": "6291503.000",
     "sector": "Real Estate",
-    "price": 183,
-    "originalprice": 183
+    "price": 92,
+    "originalprice": 92
   },
   "CAG": {
     "ticker": "CAG",
@@ -3780,8 +3780,8 @@
     "identifier": "20588710",
     "shares": "5163536.000",
     "sector": "Consumer Staples",
-    "price": 53,
-    "originalprice": 53
+    "price": 110,
+    "originalprice": 110
   },
   "FICO": {
     "ticker": "FICO",
@@ -3791,8 +3791,8 @@
     "identifier": "30325010",
     "shares": "274415.000",
     "sector": "Information Technology",
-    "price": 180,
-    "originalprice": 180
+    "price": 148,
+    "originalprice": 148
   },
   "CINF": {
     "ticker": "CINF",
@@ -3813,8 +3813,8 @@
     "identifier": "7591EP10",
     "shares": "10218341.000",
     "sector": "Financials",
-    "price": 161,
-    "originalprice": 161
+    "price": 187,
+    "originalprice": 187
   },
   "MAA": {
     "ticker": "MAA",
@@ -3824,8 +3824,8 @@
     "identifier": "59522J10",
     "shares": "1259831.000",
     "sector": "Real Estate",
-    "price": 148,
-    "originalprice": 148
+    "price": 186,
+    "originalprice": 186
   },
   "BR": {
     "ticker": "BR",
@@ -3835,8 +3835,8 @@
     "identifier": "11133T10",
     "shares": "1281557.000",
     "sector": "Industrials",
-    "price": 184,
-    "originalprice": 184
+    "price": 182,
+    "originalprice": 182
   },
   "K": {
     "ticker": "K",
@@ -3846,8 +3846,8 @@
     "identifier": "48783610",
     "shares": "2788175.000",
     "sector": "Consumer Staples",
-    "price": 106,
-    "originalprice": 106
+    "price": 207,
+    "originalprice": 207
   },
   "EXPD": {
     "ticker": "EXPD",
@@ -3857,8 +3857,8 @@
     "identifier": "30213010",
     "shares": "1733356.000",
     "sector": "Industrials",
-    "price": 57,
-    "originalprice": 57
+    "price": 224,
+    "originalprice": 224
   },
   "IEX": {
     "ticker": "IEX",
@@ -3868,8 +3868,8 @@
     "identifier": "45167R10",
     "shares": "817007.000",
     "sector": "Industrials",
-    "price": 134,
-    "originalprice": 134
+    "price": 103,
+    "originalprice": 103
   },
   "BALL": {
     "ticker": "BALL",
@@ -3879,8 +3879,8 @@
     "identifier": "05849810",
     "shares": "3411028.000",
     "sector": "Materials",
-    "price": 134,
-    "originalprice": 134
+    "price": 161,
+    "originalprice": 161
   },
   "TSN": {
     "ticker": "TSN",
@@ -3890,8 +3890,8 @@
     "identifier": "90249410",
     "shares": "3169861.000",
     "sector": "Consumer Staples",
-    "price": 214,
-    "originalprice": 214
+    "price": 94,
+    "originalprice": 94
   },
   "PFG": {
     "ticker": "PFG",
@@ -3901,8 +3901,8 @@
     "identifier": "74251V10",
     "shares": "2478266.000",
     "sector": "Financials",
-    "price": 229,
-    "originalprice": 229
+    "price": 187,
+    "originalprice": 187
   },
   "SJM": {
     "ticker": "SJM",
@@ -3912,8 +3912,8 @@
     "identifier": "83269640",
     "shares": "1164867.000",
     "sector": "Consumer Staples",
-    "price": 92,
-    "originalprice": 92
+    "price": 209,
+    "originalprice": 209
   },
   "TER": {
     "ticker": "TER",
@@ -3923,8 +3923,8 @@
     "identifier": "88077010",
     "shares": "1702127.000",
     "sector": "Information Technology",
-    "price": 65,
-    "originalprice": 65
+    "price": 194,
+    "originalprice": 194
   },
   "EPAM": {
     "ticker": "EPAM",
@@ -3934,8 +3934,8 @@
     "identifier": "29414B10",
     "shares": "622685.000",
     "sector": "Information Technology",
-    "price": 66,
-    "originalprice": 66
+    "price": 52,
+    "originalprice": 52
   },
   "AMCR": {
     "ticker": "AMCR",
@@ -3945,8 +3945,8 @@
     "identifier": "G0250X10",
     "shares": "16326532.000",
     "sector": "Materials",
-    "price": 74,
-    "originalprice": 74
+    "price": 88,
+    "originalprice": 88
   },
   "PKI": {
     "ticker": "PKI",
@@ -3956,8 +3956,8 @@
     "identifier": "71404610",
     "shares": "1378019.000",
     "sector": "Health Care",
-    "price": 84,
-    "originalprice": 84
+    "price": 64,
+    "originalprice": 64
   },
   "SEDG": {
     "ticker": "SEDG",
@@ -3967,8 +3967,8 @@
     "identifier": "83417M10",
     "shares": "609785.000",
     "sector": "Information Technology",
-    "price": 196,
-    "originalprice": 196
+    "price": 140,
+    "originalprice": 140
   },
   "NVR": {
     "ticker": "NVR",
@@ -3978,8 +3978,8 @@
     "identifier": "62944T10",
     "shares": "32815.000",
     "sector": "Consumer Discretionary",
-    "price": 136,
-    "originalprice": 136
+    "price": 153,
+    "originalprice": 153
   },
   "TRGP": {
     "ticker": "TRGP",
@@ -3989,8 +3989,8 @@
     "identifier": "87612G10",
     "shares": "2451512.000",
     "sector": "Energy",
-    "price": 156,
-    "originalprice": 156
+    "price": 99,
+    "originalprice": 99
   },
   "ATO": {
     "ticker": "ATO",
@@ -4000,8 +4000,8 @@
     "identifier": "04956010",
     "shares": "1561826.000",
     "sector": "Utilities",
-    "price": 124,
-    "originalprice": 124
+    "price": 136,
+    "originalprice": 136
   },
   "ZBRA": {
     "ticker": "ZBRA",
@@ -4011,8 +4011,8 @@
     "identifier": "98920710",
     "shares": "561890.000",
     "sector": "Information Technology",
-    "price": 124,
-    "originalprice": 124
+    "price": 121,
+    "originalprice": 121
   },
   "HBAN": {
     "ticker": "HBAN",
@@ -4022,8 +4022,8 @@
     "identifier": "44615010",
     "shares": "15574373.000",
     "sector": "Financials",
-    "price": 200,
-    "originalprice": 200
+    "price": 56,
+    "originalprice": 56
   },
   "DGX": {
     "ticker": "DGX",
@@ -4033,8 +4033,8 @@
     "identifier": "74834L10",
     "shares": "1240259.000",
     "sector": "Health Care",
-    "price": 228,
-    "originalprice": 228
+    "price": 250,
+    "originalprice": 250
   },
   "AES": {
     "ticker": "AES",
@@ -4044,8 +4044,8 @@
     "identifier": "00130H10",
     "shares": "7286997.000",
     "sector": "Utilities",
-    "price": 173,
-    "originalprice": 173
+    "price": 92,
+    "originalprice": 92
   },
   "FDS": {
     "ticker": "FDS",
@@ -4055,8 +4055,8 @@
     "identifier": "30307510",
     "shares": "417346.000",
     "sector": "Financials",
-    "price": 236,
-    "originalprice": 236
+    "price": 56,
+    "originalprice": 56
   },
   "HWM": {
     "ticker": "HWM",
@@ -4066,8 +4066,8 @@
     "identifier": "44320110",
     "shares": "4008694.000",
     "sector": "Industrials",
-    "price": 167,
-    "originalprice": 167
+    "price": 188,
+    "originalprice": 188
   },
   "MOH": {
     "ticker": "MOH",
@@ -4077,8 +4077,8 @@
     "identifier": "60855R10",
     "shares": "631100.000",
     "sector": "Health Care",
-    "price": 194,
-    "originalprice": 194
+    "price": 181,
+    "originalprice": 181
   },
   "MOS": {
     "ticker": "MOS",
@@ -4088,8 +4088,8 @@
     "identifier": "61945C10",
     "shares": "3707901.000",
     "sector": "Materials",
-    "price": 203,
-    "originalprice": 203
+    "price": 120,
+    "originalprice": 120
   },
   "FMC": {
     "ticker": "FMC",
@@ -4099,8 +4099,8 @@
     "identifier": "30249130",
     "shares": "1367253.000",
     "sector": "Materials",
-    "price": 137,
-    "originalprice": 137
+    "price": 182,
+    "originalprice": 182
   },
   "GRMN": {
     "ticker": "GRMN",
@@ -4110,8 +4110,8 @@
     "identifier": "H2906T10",
     "shares": "1674622.000",
     "sector": "Consumer Discretionary",
-    "price": 69,
-    "originalprice": 69
+    "price": 123,
+    "originalprice": 123
   },
   "FLT": {
     "ticker": "FLT",
@@ -4121,8 +4121,8 @@
     "identifier": "33904110",
     "shares": "803326.000",
     "sector": "Financials",
-    "price": 177,
-    "originalprice": 177
+    "price": 182,
+    "originalprice": 182
   },
   "BBY": {
     "ticker": "BBY",
@@ -4132,8 +4132,8 @@
     "identifier": "08651610",
     "shares": "2190410.000",
     "sector": "Consumer Discretionary",
-    "price": 91,
-    "originalprice": 91
+    "price": 199,
+    "originalprice": 199
   },
   "CFG": {
     "ticker": "CFG",
@@ -4143,8 +4143,8 @@
     "identifier": "17461010",
     "shares": "5338939.000",
     "sector": "Financials",
-    "price": 165,
-    "originalprice": 165
+    "price": 183,
+    "originalprice": 183
   },
   "IRM": {
     "ticker": "IRM",
@@ -4154,8 +4154,8 @@
     "identifier": "46284V10",
     "shares": "3171535.000",
     "sector": "Real Estate",
-    "price": 213,
-    "originalprice": 213
+    "price": 199,
+    "originalprice": 199
   },
   "MRO": {
     "ticker": "MRO",
@@ -4165,8 +4165,8 @@
     "identifier": "56584910",
     "shares": "6916610.000",
     "sector": "Energy",
-    "price": 116,
-    "originalprice": 116
+    "price": 69,
+    "originalprice": 69
   },
   "J": {
     "ticker": "J",
@@ -4176,8 +4176,8 @@
     "identifier": "46982L10",
     "shares": "1400195.000",
     "sector": "Industrials",
-    "price": 105,
-    "originalprice": 105
+    "price": 101,
+    "originalprice": 101
   },
   "TXT": {
     "ticker": "TXT",
@@ -4187,8 +4187,8 @@
     "identifier": "88320310",
     "shares": "2296129.000",
     "sector": "Industrials",
-    "price": 141,
-    "originalprice": 141
+    "price": 193,
+    "originalprice": 193
   },
   "LW": {
     "ticker": "LW",
@@ -4198,8 +4198,8 @@
     "identifier": "51327210",
     "shares": "1558680.000",
     "sector": "Consumer Staples",
-    "price": 158,
-    "originalprice": 158
+    "price": 211,
+    "originalprice": 211
   },
   "MKTX": {
     "ticker": "MKTX",
@@ -4209,8 +4209,8 @@
     "identifier": "57060D10",
     "shares": "408460.000",
     "sector": "Financials",
-    "price": 78,
-    "originalprice": 78
+    "price": 92,
+    "originalprice": 92
   },
   "PAYC": {
     "ticker": "PAYC",
@@ -4220,8 +4220,8 @@
     "identifier": "70432V10",
     "shares": "529413.000",
     "sector": "Information Technology",
-    "price": 101,
-    "originalprice": 101
+    "price": 68,
+    "originalprice": 68
   },
   "BG": {
     "ticker": "BG",
@@ -4231,8 +4231,8 @@
     "identifier": "G1696210",
     "shares": "1638029.000",
     "sector": "Consumer Staples",
-    "price": 212,
-    "originalprice": 212
+    "price": 156,
+    "originalprice": 156
   },
   "TYL": {
     "ticker": "TYL",
@@ -4242,8 +4242,8 @@
     "identifier": "90225210",
     "shares": "453464.000",
     "sector": "Information Technology",
-    "price": 113,
-    "originalprice": 113
+    "price": 139,
+    "originalprice": 139
   },
   "EXPE": {
     "ticker": "EXPE",
@@ -4253,8 +4253,8 @@
     "identifier": "30212P30",
     "shares": "1621029.000",
     "sector": "Consumer Discretionary",
-    "price": 139,
-    "originalprice": 139
+    "price": 86,
+    "originalprice": 86
   },
   "UAL": {
     "ticker": "UAL",
@@ -4264,8 +4264,8 @@
     "identifier": "91004710",
     "shares": "3560126.000",
     "sector": "Industrials",
-    "price": 173,
-    "originalprice": 173
+    "price": 227,
+    "originalprice": 227
   },
   "AVY": {
     "ticker": "AVY",
@@ -4275,8 +4275,8 @@
     "identifier": "05361110",
     "shares": "891303.000",
     "sector": "Materials",
-    "price": 108,
-    "originalprice": 108
+    "price": 104,
+    "originalprice": 104
   },
   "IPG": {
     "ticker": "IPG",
@@ -4286,8 +4286,8 @@
     "identifier": "46069010",
     "shares": "4232546.000",
     "sector": "Communication Services",
-    "price": 239,
-    "originalprice": 239
+    "price": 145,
+    "originalprice": 145
   },
   "RCL": {
     "ticker": "RCL",
@@ -4297,8 +4297,8 @@
     "identifier": "V7780T10",
     "shares": "2376796.000",
     "sector": "Consumer Discretionary",
-    "price": 112,
-    "originalprice": 112
+    "price": 207,
+    "originalprice": 207
   },
   "LKQ": {
     "ticker": "LKQ",
@@ -4308,8 +4308,8 @@
     "identifier": "50188920",
     "shares": "2764297.000",
     "sector": "Consumer Discretionary",
-    "price": 167,
-    "originalprice": 167
+    "price": 130,
+    "originalprice": 130
   },
   "CF": {
     "ticker": "CF",
@@ -4319,8 +4319,8 @@
     "identifier": "12526910",
     "shares": "2136845.000",
     "sector": "Materials",
-    "price": 139,
-    "originalprice": 139
+    "price": 59,
+    "originalprice": 59
   },
   "JBHT": {
     "ticker": "JBHT",
@@ -4330,8 +4330,8 @@
     "identifier": "44565810",
     "shares": "904090.000",
     "sector": "Industrials",
-    "price": 244,
-    "originalprice": 244
+    "price": 54,
+    "originalprice": 54
   },
   "RE": {
     "ticker": "RE",
@@ -4341,8 +4341,8 @@
     "identifier": "G3223R10",
     "shares": "428558.000",
     "sector": "Financials",
-    "price": 196,
-    "originalprice": 196
+    "price": 151,
+    "originalprice": 151
   },
   "CBOE": {
     "ticker": "CBOE",
@@ -4352,8 +4352,8 @@
     "identifier": "12503M10",
     "shares": "1146529.000",
     "sector": "Financials",
-    "price": 231,
-    "originalprice": 231
+    "price": 115,
+    "originalprice": 115
   },
   "EVRG": {
     "ticker": "EVRG",
@@ -4363,8 +4363,8 @@
     "identifier": "30034W10",
     "shares": "2504116.000",
     "sector": "Utilities",
-    "price": 168,
-    "originalprice": 168
+    "price": 139,
+    "originalprice": 139
   },
   "MGM": {
     "ticker": "MGM",
@@ -4374,8 +4374,8 @@
     "identifier": "55295310",
     "shares": "3470634.000",
     "sector": "Consumer Discretionary",
-    "price": 183,
-    "originalprice": 183
+    "price": 67,
+    "originalprice": 67
   },
   "ETSY": {
     "ticker": "ETSY",
@@ -4385,8 +4385,8 @@
     "identifier": "29786A10",
     "shares": "1365457.000",
     "sector": "Consumer Discretionary",
-    "price": 67,
-    "originalprice": 67
+    "price": 69,
+    "originalprice": 69
   },
   "NTAP": {
     "ticker": "NTAP",
@@ -4396,8 +4396,8 @@
     "identifier": "64110D10",
     "shares": "2367137.000",
     "sector": "Information Technology",
-    "price": 187,
-    "originalprice": 187
+    "price": 185,
+    "originalprice": 185
   },
   "PTC": {
     "ticker": "PTC",
@@ -4407,8 +4407,8 @@
     "identifier": "69370C10",
     "shares": "1161092.000",
     "sector": "Information Technology",
-    "price": 78,
-    "originalprice": 78
+    "price": 172,
+    "originalprice": 172
   },
   "BRO": {
     "ticker": "BRO",
@@ -4418,8 +4418,8 @@
     "identifier": "11523610",
     "shares": "2564357.000",
     "sector": "Financials",
-    "price": 198,
-    "originalprice": 198
+    "price": 188,
+    "originalprice": 188
   },
   "LNT": {
     "ticker": "LNT",
@@ -4429,8 +4429,8 @@
     "identifier": "01880210",
     "shares": "2738579.000",
     "sector": "Utilities",
-    "price": 234,
-    "originalprice": 234
+    "price": 201,
+    "originalprice": 201
   },
   "INCY": {
     "ticker": "INCY",
@@ -4440,8 +4440,8 @@
     "identifier": "45337C10",
     "shares": "2022644.000",
     "sector": "Health Care",
-    "price": 59,
-    "originalprice": 59
+    "price": 90,
+    "originalprice": 90
   },
   "ESS": {
     "ticker": "ESS",
@@ -4451,8 +4451,8 @@
     "identifier": "29717810",
     "shares": "698536.000",
     "sector": "Real Estate",
-    "price": 139,
-    "originalprice": 139
+    "price": 188,
+    "originalprice": 188
   },
   "PHM": {
     "ticker": "PHM",
@@ -4462,8 +4462,8 @@
     "identifier": "74586710",
     "shares": "2510144.000",
     "sector": "Consumer Discretionary",
-    "price": 161,
-    "originalprice": 161
+    "price": 106,
+    "originalprice": 106
   },
   "POOL": {
     "ticker": "POOL",
@@ -4473,8 +4473,8 @@
     "identifier": "73278L10",
     "shares": "425202.000",
     "sector": "Consumer Discretionary",
-    "price": 217,
-    "originalprice": 217
+    "price": 183,
+    "originalprice": 183
   },
   "PKG": {
     "ticker": "PKG",
@@ -4484,8 +4484,8 @@
     "identifier": "69515610",
     "shares": "1022044.000",
     "sector": "Materials",
-    "price": 113,
-    "originalprice": 113
+    "price": 216,
+    "originalprice": 216
   },
   "SNA": {
     "ticker": "SNA",
@@ -4495,8 +4495,8 @@
     "identifier": "83303410",
     "shares": "580118.000",
     "sector": "Industrials",
-    "price": 202,
-    "originalprice": 202
+    "price": 193,
+    "originalprice": 193
   },
   "TRMB": {
     "ticker": "TRMB",
@@ -4506,8 +4506,8 @@
     "identifier": "89623910",
     "shares": "2704466.000",
     "sector": "Information Technology",
-    "price": 210,
-    "originalprice": 210
+    "price": 174,
+    "originalprice": 174
   },
   "IP": {
     "ticker": "IP",
@@ -4517,8 +4517,8 @@
     "identifier": "46014610",
     "shares": "3926028.000",
     "sector": "Materials",
-    "price": 75,
-    "originalprice": 75
+    "price": 64,
+    "originalprice": 64
   },
   "STX": {
     "ticker": "STX",
@@ -4528,8 +4528,8 @@
     "identifier": "G7997R10",
     "shares": "2118111.000",
     "sector": "Information Technology",
-    "price": 85,
-    "originalprice": 85
+    "price": 157,
+    "originalprice": 157
   },
   "WRB": {
     "ticker": "WRB",
@@ -4539,8 +4539,8 @@
     "identifier": "08442310",
     "shares": "2214195.000",
     "sector": "Financials",
-    "price": 162,
-    "originalprice": 162
+    "price": 122,
+    "originalprice": 122
   },
   "SYF": {
     "ticker": "SYF",
@@ -4550,8 +4550,8 @@
     "identifier": "87165B10",
     "shares": "4767742.000",
     "sector": "Financials",
-    "price": 247,
-    "originalprice": 247
+    "price": 104,
+    "originalprice": 104
   },
   "LDOS": {
     "ticker": "LDOS",
@@ -4561,8 +4561,8 @@
     "identifier": "52532710",
     "shares": "1480512.000",
     "sector": "Industrials",
-    "price": 205,
-    "originalprice": 205
+    "price": 189,
+    "originalprice": 189
   },
   "UDR": {
     "ticker": "UDR",
@@ -4572,8 +4572,8 @@
     "identifier": "90265310",
     "shares": "3333295.000",
     "sector": "Real Estate",
-    "price": 143,
-    "originalprice": 143
+    "price": 127,
+    "originalprice": 127
   },
   "AKAM": {
     "ticker": "AKAM",
@@ -4583,8 +4583,8 @@
     "identifier": "00971T10",
     "shares": "1723280.000",
     "sector": "Information Technology",
-    "price": 198,
-    "originalprice": 198
+    "price": 149,
+    "originalprice": 149
   },
   "WDC": {
     "ticker": "WDC",
@@ -4594,8 +4594,8 @@
     "identifier": "95810210",
     "shares": "3483580.000",
     "sector": "Information Technology",
-    "price": 229,
-    "originalprice": 229
+    "price": 93,
+    "originalprice": 93
   },
   "PEAK": {
     "ticker": "PEAK",
@@ -4605,8 +4605,8 @@
     "identifier": "42250P10",
     "shares": "5965098.000",
     "sector": "Real Estate",
-    "price": 245,
-    "originalprice": 245
+    "price": 149,
+    "originalprice": 149
   },
   "NDSN": {
     "ticker": "NDSN",
@@ -4616,8 +4616,8 @@
     "identifier": "65566310",
     "shares": "585560.000",
     "sector": "Industrials",
-    "price": 181,
-    "originalprice": 181
+    "price": 166,
+    "originalprice": 166
   },
   "DPZ": {
     "ticker": "DPZ",
@@ -4627,8 +4627,8 @@
     "identifier": "25754A20",
     "shares": "389351.000",
     "sector": "Consumer Discretionary",
-    "price": 71,
-    "originalprice": 71
+    "price": 73,
+    "originalprice": 73
   },
   "TFX": {
     "ticker": "TFX",
@@ -4638,8 +4638,8 @@
     "identifier": "87936910",
     "shares": "511728.000",
     "sector": "Health Care",
-    "price": 177,
-    "originalprice": 177
+    "price": 187,
+    "originalprice": 187
   },
   "CTLT": {
     "ticker": "CTLT",
@@ -4649,8 +4649,8 @@
     "identifier": "14880610",
     "shares": "1964640.000",
     "sector": "Health Care",
-    "price": 82,
-    "originalprice": 82
+    "price": 142,
+    "originalprice": 142
   },
   "VTRS": {
     "ticker": "VTRS",
@@ -4660,8 +4660,8 @@
     "identifier": "92556V10",
     "shares": "13229825.000",
     "sector": "Health Care",
-    "price": 187,
-    "originalprice": 187
+    "price": 97,
+    "originalprice": 97
   },
   "KEY": {
     "ticker": "KEY",
@@ -4671,8 +4671,8 @@
     "identifier": "49326710",
     "shares": "10182075.000",
     "sector": "Financials",
-    "price": 85,
-    "originalprice": 85
+    "price": 185,
+    "originalprice": 185
   },
   "APA": {
     "ticker": "APA",
@@ -4682,8 +4682,8 @@
     "identifier": "03743Q10",
     "shares": "3544714.000",
     "sector": "Energy",
-    "price": 163,
-    "originalprice": 163
+    "price": 169,
+    "originalprice": 169
   },
   "KIM": {
     "ticker": "KIM",
@@ -4693,8 +4693,8 @@
     "identifier": "49446R10",
     "shares": "6654128.000",
     "sector": "Real Estate",
-    "price": 86,
-    "originalprice": 86
+    "price": 103,
+    "originalprice": 103
   },
   "BWA": {
     "ticker": "BWA",
@@ -4704,8 +4704,8 @@
     "identifier": "09972410",
     "shares": "2588741.000",
     "sector": "Consumer Discretionary",
-    "price": 245,
-    "originalprice": 245
+    "price": 209,
+    "originalprice": 209
   },
   "BF/B": {
     "ticker": "BF/B",
@@ -4715,8 +4715,8 @@
     "identifier": "11563720",
     "shares": "1963582.000",
     "sector": "Consumer Staples",
-    "price": 204,
-    "originalprice": 204
+    "price": 245,
+    "originalprice": 245
   },
   "SWK": {
     "ticker": "SWK",
@@ -4726,8 +4726,8 @@
     "identifier": "85450210",
     "shares": "1602294.000",
     "sector": "Industrials",
-    "price": 139,
-    "originalprice": 139
+    "price": 203,
+    "originalprice": 203
   },
   "TECH": {
     "ticker": "TECH",
@@ -4737,8 +4737,8 @@
     "identifier": "09073M10",
     "shares": "1715811.000",
     "sector": "Health Care",
-    "price": 71,
-    "originalprice": 71
+    "price": 174,
+    "originalprice": 174
   },
   "WYNN": {
     "ticker": "WYNN",
@@ -4748,8 +4748,8 @@
     "identifier": "98313410",
     "shares": "1139428.000",
     "sector": "Consumer Discretionary",
-    "price": 149,
-    "originalprice": 149
+    "price": 136,
+    "originalprice": 136
   },
   "CPT": {
     "ticker": "CPT",
@@ -4759,8 +4759,8 @@
     "identifier": "13313110",
     "shares": "1201560.000",
     "sector": "Real Estate",
-    "price": 152,
-    "originalprice": 152
+    "price": 61,
+    "originalprice": 61
   },
   "EQT": {
     "ticker": "EQT",
@@ -4770,8 +4770,8 @@
     "identifier": "26884L10",
     "shares": "3961434.000",
     "sector": "Energy",
-    "price": 132,
-    "originalprice": 132
+    "price": 168,
+    "originalprice": 168
   },
   "CHRW": {
     "ticker": "CHRW",
@@ -4781,8 +4781,8 @@
     "identifier": "12541W20",
     "shares": "1281929.000",
     "sector": "Industrials",
-    "price": 246,
-    "originalprice": 246
+    "price": 74,
+    "originalprice": 74
   },
   "HRL": {
     "ticker": "HRL",
@@ -4792,8 +4792,8 @@
     "identifier": "44045210",
     "shares": "3140878.000",
     "sector": "Consumer Staples",
-    "price": 58,
-    "originalprice": 58
+    "price": 242,
+    "originalprice": 242
   },
   "HST": {
     "ticker": "HST",
@@ -4803,8 +4803,8 @@
     "identifier": "44107P10",
     "shares": "7800581.000",
     "sector": "Real Estate",
-    "price": 226,
-    "originalprice": 226
+    "price": 135,
+    "originalprice": 135
   },
   "NI": {
     "ticker": "NI",
@@ -4814,8 +4814,8 @@
     "identifier": "65473P10",
     "shares": "4389293.000",
     "sector": "Utilities",
-    "price": 242,
-    "originalprice": 242
+    "price": 207,
+    "originalprice": 207
   },
   "L": {
     "ticker": "L",
@@ -4825,8 +4825,8 @@
     "identifier": "54042410",
     "shares": "2116987.000",
     "sector": "Financials",
-    "price": 202,
-    "originalprice": 202
+    "price": 102,
+    "originalprice": 102
   },
   "CPB": {
     "ticker": "CPB",
@@ -4836,8 +4836,8 @@
     "identifier": "13442910",
     "shares": "2196709.000",
     "sector": "Consumer Staples",
-    "price": 190,
-    "originalprice": 190
+    "price": 110,
+    "originalprice": 110
   },
   "JNPR": {
     "ticker": "JNPR",
@@ -4847,8 +4847,8 @@
     "identifier": "48203R10",
     "shares": "3494744.000",
     "sector": "Information Technology",
-    "price": 187,
-    "originalprice": 187
+    "price": 94,
+    "originalprice": 94
   },
   "PARA": {
     "ticker": "PARA",
@@ -4858,8 +4858,8 @@
     "identifier": "92556H20",
     "shares": "5479544.000",
     "sector": "Communication Services",
-    "price": 226,
-    "originalprice": 226
+    "price": 235,
+    "originalprice": 235
   },
   "MAS": {
     "ticker": "MAS",
@@ -4869,8 +4869,8 @@
     "identifier": "57459910",
     "shares": "2448006.000",
     "sector": "Industrials",
-    "price": 151,
-    "originalprice": 151
+    "price": 144,
+    "originalprice": 144
   },
   "HSIC": {
     "ticker": "HSIC",
@@ -4880,8 +4880,8 @@
     "identifier": "80640710",
     "shares": "1476440.000",
     "sector": "Health Care",
-    "price": 172,
-    "originalprice": 172
+    "price": 203,
+    "originalprice": 203
   },
   "JKHY": {
     "ticker": "JKHY",
@@ -4891,8 +4891,8 @@
     "identifier": "42628110",
     "shares": "793636.000",
     "sector": "Financials",
-    "price": 55,
-    "originalprice": 55
+    "price": 190,
+    "originalprice": 190
   },
   "CDAY": {
     "ticker": "CDAY",
@@ -4902,8 +4902,8 @@
     "identifier": "15677J10",
     "shares": "1661557.000",
     "sector": "Information Technology",
-    "price": 97,
-    "originalprice": 97
+    "price": 242,
+    "originalprice": 242
   },
   "CE": {
     "ticker": "CE",
@@ -4913,8 +4913,8 @@
     "identifier": "15087010",
     "shares": "1081955.000",
     "sector": "Materials",
-    "price": 246,
-    "originalprice": 246
+    "price": 91,
+    "originalprice": 91
   },
   "MTCH": {
     "ticker": "MTCH",
@@ -4924,8 +4924,8 @@
     "identifier": "57667L10",
     "shares": "3049892.000",
     "sector": "Communication Services",
-    "price": 216,
-    "originalprice": 216
+    "price": 98,
+    "originalprice": 98
   },
   "QRVO": {
     "ticker": "QRVO",
@@ -4935,8 +4935,8 @@
     "identifier": "74736K10",
     "shares": "1121068.000",
     "sector": "Information Technology",
-    "price": 79,
-    "originalprice": 79
+    "price": 155,
+    "originalprice": 155
   },
   "FOXA": {
     "ticker": "FOXA",
@@ -4946,8 +4946,8 @@
     "identifier": "35137L10",
     "shares": "3328249.000",
     "sector": "Communication Services",
-    "price": 121,
-    "originalprice": 121
+    "price": 177,
+    "originalprice": 177
   },
   "CCL": {
     "ticker": "CCL",
@@ -4957,8 +4957,8 @@
     "identifier": "14365830",
     "shares": "10932775.000",
     "sector": "Consumer Discretionary",
-    "price": 53,
-    "originalprice": 53
+    "price": 145,
+    "originalprice": 145
   },
   "TPR": {
     "ticker": "TPR",
@@ -4968,8 +4968,8 @@
     "identifier": "87603010",
     "shares": "2624019.000",
     "sector": "Consumer Discretionary",
-    "price": 82,
-    "originalprice": 82
+    "price": 68,
+    "originalprice": 68
   },
   "CRL": {
     "ticker": "CRL",
@@ -4979,8 +4979,8 @@
     "identifier": "15986410",
     "shares": "555021.000",
     "sector": "Health Care",
-    "price": 234,
-    "originalprice": 234
+    "price": 89,
+    "originalprice": 89
   },
   "BIO": {
     "ticker": "BIO",
@@ -4990,8 +4990,8 @@
     "identifier": "09057220",
     "shares": "231100.000",
     "sector": "Health Care",
-    "price": 109,
-    "originalprice": 109
+    "price": 215,
+    "originalprice": 215
   },
   "EMN": {
     "ticker": "EMN",
@@ -5001,8 +5001,8 @@
     "identifier": "27743210",
     "shares": "1306602.000",
     "sector": "Materials",
-    "price": 190,
-    "originalprice": 190
+    "price": 181,
+    "originalprice": 181
   },
   "CZR": {
     "ticker": "CZR",
@@ -5012,8 +5012,8 @@
     "identifier": "12769G10",
     "shares": "2306485.000",
     "sector": "Consumer Discretionary",
-    "price": 87,
-    "originalprice": 87
+    "price": 247,
+    "originalprice": 247
   },
   "GL": {
     "ticker": "GL",
@@ -5023,8 +5023,8 @@
     "identifier": "37959E10",
     "shares": "982248.000",
     "sector": "Financials",
-    "price": 98,
-    "originalprice": 98
+    "price": 193,
+    "originalprice": 193
   },
   "KMX": {
     "ticker": "KMX",
@@ -5034,8 +5034,8 @@
     "identifier": "14313010",
     "shares": "1751681.000",
     "sector": "Consumer Discretionary",
-    "price": 104,
-    "originalprice": 104
+    "price": 160,
+    "originalprice": 160
   },
   "LYV": {
     "ticker": "LYV",
@@ -5045,8 +5045,8 @@
     "identifier": "53803410",
     "shares": "1541647.000",
     "sector": "Communication Services",
-    "price": 87,
-    "originalprice": 87
+    "price": 201,
+    "originalprice": 201
   },
   "TAP": {
     "ticker": "TAP",
@@ -5056,8 +5056,8 @@
     "identifier": "60871R20",
     "shares": "2038444.000",
     "sector": "Consumer Staples",
-    "price": 213,
-    "originalprice": 213
+    "price": 250,
+    "originalprice": 250
   },
   "GEN": {
     "ticker": "GEN",
@@ -5067,8 +5067,8 @@
     "identifier": "66877110",
     "shares": "6252211.000",
     "sector": "Information Technology",
-    "price": 122,
-    "originalprice": 122
+    "price": 53,
+    "originalprice": 53
   },
   "AAL": {
     "ticker": "AAL",
@@ -5078,8 +5078,8 @@
     "identifier": "02376R10",
     "shares": "7098169.000",
     "sector": "Industrials",
-    "price": 94,
-    "originalprice": 94
+    "price": 123,
+    "originalprice": 123
   },
   "ALLE": {
     "ticker": "ALLE",
@@ -5089,8 +5089,8 @@
     "identifier": "G0176J10",
     "shares": "964531.000",
     "sector": "Industrials",
-    "price": 197,
-    "originalprice": 197
+    "price": 174,
+    "originalprice": 174
   },
   "CASH_USD": {
     "ticker": "CASH_USD",
@@ -5100,8 +5100,8 @@
     "identifier": "CASH_USD",
     "shares": "100756000.000",
     "sector": "Unassigned",
-    "price": 205,
-    "originalprice": 205
+    "price": 197,
+    "originalprice": 197
   },
   "REG": {
     "ticker": "REG",
@@ -5111,8 +5111,8 @@
     "identifier": "75884910",
     "shares": "1680188.000",
     "sector": "Real Estate",
-    "price": 248,
-    "originalprice": 248
+    "price": 90,
+    "originalprice": 90
   },
   "PNW": {
     "ticker": "PNW",
@@ -5122,8 +5122,8 @@
     "identifier": "72348410",
     "shares": "1220076.000",
     "sector": "Utilities",
-    "price": 204,
-    "originalprice": 204
+    "price": 172,
+    "originalprice": 172
   },
   "PNR": {
     "ticker": "PNR",
@@ -5133,8 +5133,8 @@
     "identifier": "G7S00T10",
     "shares": "1782135.000",
     "sector": "Industrials",
-    "price": 191,
-    "originalprice": 191
+    "price": 231,
+    "originalprice": 231
   },
   "AOS": {
     "ticker": "AOS",
@@ -5144,8 +5144,8 @@
     "identifier": "83186520",
     "shares": "1392897.000",
     "sector": "Industrials",
-    "price": 54,
-    "originalprice": 54
+    "price": 250,
+    "originalprice": 250
   },
   "ROL": {
     "ticker": "ROL",
@@ -5155,8 +5155,8 @@
     "identifier": "77571110",
     "shares": "2520965.000",
     "sector": "Industrials",
-    "price": 239,
-    "originalprice": 239
+    "price": 136,
+    "originalprice": 136
   },
   "RHI": {
     "ticker": "RHI",
@@ -5166,8 +5166,8 @@
     "identifier": "77032310",
     "shares": "1195018.000",
     "sector": "Industrials",
-    "price": 139,
-    "originalprice": 139
+    "price": 86,
+    "originalprice": 86
   },
   "FFIV": {
     "ticker": "FFIV",
@@ -5177,8 +5177,8 @@
     "identifier": "31561610",
     "shares": "645376.000",
     "sector": "Information Technology",
-    "price": 231,
-    "originalprice": 231
+    "price": 174,
+    "originalprice": 174
   },
   "XRAY": {
     "ticker": "XRAY",
@@ -5188,8 +5188,8 @@
     "identifier": "24906P10",
     "shares": "2349417.000",
     "sector": "Health Care",
-    "price": 205,
-    "originalprice": 205
+    "price": 144,
+    "originalprice": 144
   },
   "BBWI": {
     "ticker": "BBWI",
@@ -5199,8 +5199,8 @@
     "identifier": "07083010",
     "shares": "2474891.000",
     "sector": "Consumer Discretionary",
-    "price": 119,
-    "originalprice": 119
+    "price": 198,
+    "originalprice": 198
   },
   "HII": {
     "ticker": "HII",
@@ -5210,8 +5210,8 @@
     "identifier": "44641310",
     "shares": "431502.000",
     "sector": "Industrials",
-    "price": 146,
-    "originalprice": 146
+    "price": 158,
+    "originalprice": 158
   },
   "UHS": {
     "ticker": "UHS",
@@ -5221,8 +5221,8 @@
     "identifier": "91390310",
     "shares": "698629.000",
     "sector": "Health Care",
-    "price": 131,
-    "originalprice": 131
+    "price": 54,
+    "originalprice": 54
   },
   "NRG": {
     "ticker": "NRG",
@@ -5232,8 +5232,8 @@
     "identifier": "62937750",
     "shares": "2554188.000",
     "sector": "Utilities",
-    "price": 117,
-    "originalprice": 117
+    "price": 232,
+    "originalprice": 232
   },
   "WRK": {
     "ticker": "WRK",
@@ -5243,8 +5243,8 @@
     "identifier": "96145D10",
     "shares": "2757498.000",
     "sector": "Materials",
-    "price": 78,
-    "originalprice": 78
+    "price": 214,
+    "originalprice": 214
   },
   "BEN": {
     "ticker": "BEN",
@@ -5254,8 +5254,8 @@
     "identifier": "35461310",
     "shares": "3111393.000",
     "sector": "Financials",
-    "price": 194,
-    "originalprice": 194
+    "price": 191,
+    "originalprice": 191
   },
   "BXP": {
     "ticker": "BXP",
@@ -5265,8 +5265,8 @@
     "identifier": "10112110",
     "shares": "1526640.000",
     "sector": "Real Estate",
-    "price": 127,
-    "originalprice": 127
+    "price": 138,
+    "originalprice": 138
   },
   "VFC": {
     "ticker": "VFC",
@@ -5276,8 +5276,8 @@
     "identifier": "91820410",
     "shares": "3604003.000",
     "sector": "Consumer Discretionary",
-    "price": 159,
-    "originalprice": 159
+    "price": 200,
+    "originalprice": 200
   },
   "IVZ": {
     "ticker": "IVZ",
@@ -5287,8 +5287,8 @@
     "identifier": "G491BT10",
     "shares": "4936081.000",
     "sector": "Financials",
-    "price": 248,
-    "originalprice": 248
+    "price": 127,
+    "originalprice": 127
   },
   "AAP": {
     "ticker": "AAP",
@@ -5298,8 +5298,8 @@
     "identifier": "00751Y10",
     "shares": "657337.000",
     "sector": "Consumer Discretionary",
-    "price": 149,
-    "originalprice": 149
+    "price": 139,
+    "originalprice": 139
   },
   "WHR": {
     "ticker": "WHR",
@@ -5309,8 +5309,8 @@
     "identifier": "96332010",
     "shares": "591158.000",
     "sector": "Consumer Discretionary",
-    "price": 152,
-    "originalprice": 152
+    "price": 55,
+    "originalprice": 55
   },
   "FRT": {
     "ticker": "FRT",
@@ -5320,8 +5320,8 @@
     "identifier": "31374510",
     "shares": "796450.000",
     "sector": "Real Estate",
-    "price": 138,
-    "originalprice": 138
+    "price": 146,
+    "originalprice": 146
   },
   "GNRC": {
     "ticker": "GNRC",
@@ -5331,8 +5331,8 @@
     "identifier": "36873610",
     "shares": "678496.000",
     "sector": "Industrials",
-    "price": 61,
-    "originalprice": 61
+    "price": 202,
+    "originalprice": 202
   },
   "HAS": {
     "ticker": "HAS",
@@ -5342,8 +5342,8 @@
     "identifier": "41805610",
     "shares": "1383361.000",
     "sector": "Consumer Discretionary",
-    "price": 135,
-    "originalprice": 135
+    "price": 114,
+    "originalprice": 114
   },
   "NWSA": {
     "ticker": "NWSA",
@@ -5353,8 +5353,8 @@
     "identifier": "65249B10",
     "shares": "4234598.000",
     "sector": "Communication Services",
-    "price": 65,
-    "originalprice": 65
+    "price": 223,
+    "originalprice": 223
   },
   "SEE": {
     "ticker": "SEE",
@@ -5364,8 +5364,8 @@
     "identifier": "81211K10",
     "shares": "1612272.000",
     "sector": "Materials",
-    "price": 93,
-    "originalprice": 93
+    "price": 210,
+    "originalprice": 210
   },
   "AIZ": {
     "ticker": "AIZ",
@@ -5375,8 +5375,8 @@
     "identifier": "04621X10",
     "shares": "578256.000",
     "sector": "Financials",
-    "price": 236,
-    "originalprice": 236
+    "price": 206,
+    "originalprice": 206
   },
   "OGN": {
     "ticker": "OGN",
@@ -5386,8 +5386,8 @@
     "identifier": "68622V10",
     "shares": "2739602.000",
     "sector": "Health Care",
-    "price": 78,
-    "originalprice": 78
+    "price": 165,
+    "originalprice": 165
   },
   "CMA": {
     "ticker": "CMA",
@@ -5397,8 +5397,8 @@
     "identifier": "20034010",
     "shares": "1428730.000",
     "sector": "Financials",
-    "price": 224,
-    "originalprice": 224
+    "price": 107,
+    "originalprice": 107
   },
   "DXC": {
     "ticker": "DXC",
@@ -5408,8 +5408,8 @@
     "identifier": "23355L10",
     "shares": "2494036.000",
     "sector": "Information Technology",
-    "price": 105,
-    "originalprice": 105
+    "price": 185,
+    "originalprice": 185
   },
   "NCLH": {
     "ticker": "NCLH",
@@ -5419,8 +5419,8 @@
     "identifier": "G6672110",
     "shares": "4498590.000",
     "sector": "Consumer Discretionary",
-    "price": 210,
-    "originalprice": 210
+    "price": 71,
+    "originalprice": 71
   },
   "ALK": {
     "ticker": "ALK",
@@ -5430,8 +5430,8 @@
     "identifier": "01165910",
     "shares": "1344880.000",
     "sector": "Industrials",
-    "price": 105,
-    "originalprice": 105
+    "price": 170,
+    "originalprice": 170
   },
   "MHK": {
     "ticker": "MHK",
@@ -5441,8 +5441,8 @@
     "identifier": "60819010",
     "shares": "557224.000",
     "sector": "Consumer Discretionary",
-    "price": 100,
-    "originalprice": 100
+    "price": 159,
+    "originalprice": 159
   },
   "RL": {
     "ticker": "RL",
@@ -5452,8 +5452,8 @@
     "identifier": "75121210",
     "shares": "447353.000",
     "sector": "Consumer Discretionary",
-    "price": 202,
-    "originalprice": 202
+    "price": 74,
+    "originalprice": 74
   },
   "ZION": {
     "ticker": "ZION",
@@ -5463,8 +5463,8 @@
     "identifier": "98970110",
     "shares": "1636278.000",
     "sector": "Financials",
-    "price": 95,
-    "originalprice": 95
+    "price": 176,
+    "originalprice": 176
   },
   "NWL": {
     "ticker": "NWL",
@@ -5474,8 +5474,8 @@
     "identifier": "65122910",
     "shares": "4094318.000",
     "sector": "Consumer Discretionary",
-    "price": 118,
-    "originalprice": 118
+    "price": 228,
+    "originalprice": 228
   },
   "DVA": {
     "ticker": "DVA",
@@ -5485,8 +5485,8 @@
     "identifier": "23918K10",
     "shares": "604560.000",
     "sector": "Health Care",
-    "price": 85,
-    "originalprice": 85
+    "price": 157,
+    "originalprice": 157
   },
   "FOX": {
     "ticker": "FOX",
@@ -5496,8 +5496,8 @@
     "identifier": "35137L20",
     "shares": "1517389.000",
     "sector": "Communication Services",
-    "price": 108,
-    "originalprice": 108
+    "price": 93,
+    "originalprice": 93
   },
   "LNC": {
     "ticker": "LNC",
@@ -5507,8 +5507,8 @@
     "identifier": "53418710",
     "shares": "1681526.000",
     "sector": "Financials",
-    "price": 151,
-    "originalprice": 151
+    "price": 177,
+    "originalprice": 177
   },
   "FRC": {
     "ticker": "FRC",
@@ -5518,8 +5518,8 @@
     "identifier": "33616C10",
     "shares": "1982807.000",
     "sector": "Financials",
-    "price": 86,
-    "originalprice": 86
+    "price": 78,
+    "originalprice": 78
   },
   "DISH": {
     "ticker": "DISH",
@@ -5529,8 +5529,8 @@
     "identifier": "25470M10",
     "shares": "2678787.000",
     "sector": "Communication Services",
-    "price": 162,
-    "originalprice": 162
+    "price": 200,
+    "originalprice": 200
   },
   "NWS": {
     "ticker": "NWS",
@@ -5540,7 +5540,7 @@
     "identifier": "65249B20",
     "shares": "1328694.000",
     "sector": "Communication Services",
-    "price": 151,
-    "originalprice": 151
+    "price": 139,
+    "originalprice": 139
   }
 }

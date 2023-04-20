@@ -35,6 +35,7 @@ const getPrices = async () => {
       pricedStocks[stock.ticker] = stock;
       pricedStocks[stock.ticker].price = price;
       pricedStocks[stock.ticker].originalprice = price;
+      pricedStocks[stock.ticker].change = data.quotes.quote.change_percentage;
     }
   }
   
