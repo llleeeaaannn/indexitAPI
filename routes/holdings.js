@@ -6,10 +6,10 @@ const router = express.Router();
 const importHoldings = async function(req, res, next) {
   try {
     const data = await fs.readFile('prices.json', 'utf8');
-    const stocks = JSON.parse(data);
-    console.log(stocks);
+    const holdingsData = JSON.parse(data);
+    console.log(holdingsData);
 
-    req.stocks = stocks;
+    req.holdingsData = holdingsData;
 
 
     next();
@@ -21,7 +21,7 @@ const importHoldings = async function(req, res, next) {
 router
   .route('/')
   .get([importHoldings], function(req, res) {
-    res.send(req.stocks)
+    res.send(req.holdingsData)
   })
 
 export default router;
