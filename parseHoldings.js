@@ -1,6 +1,10 @@
 import XLSX from 'xlsx';
 import fs from 'fs/promises';
 
+function replaceDotsAndHyphens(str) {
+  return str.replace(/[.-]/g, '/');
+}
+
 const parseHoldings = async () => {
 
   // Read holdings XLSX file
@@ -21,7 +25,7 @@ const parseHoldings = async () => {
   // Function that takes tickerData array, reformats the objects and returns them in an object
   const formattedData = tickerData.reduce((acc, item) => {
     const price = Math.floor(Math.random() * (250 - 50 + 1) + 50);
-    const ticker = item['SPDR® S&P 500® ETF Trust'];
+    const ticker = replaceDotsAndHyphens(item['SPDR® S&P 500® ETF Trust']);
     acc[ticker] = {
       ticker: ticker,
       name: item['Fund Name:'],

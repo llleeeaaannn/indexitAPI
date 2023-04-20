@@ -17,7 +17,7 @@ const callFunctions = async () => {
   await getPrices();
 }
 
-// callFunctions();
+callFunctions();
 
 const errorHandler = function(error, req, res, next) {
   console.log(`Error: ${error.message}`);

@@ -31,7 +31,10 @@ const getPrices = async () => {
     } else {
       const data = await response.json();
       console.log(data);
-      pricedStocks[stock.ticker] = data;
+      const price = data.quotes.quote.last.toFixed(2);
+      pricedStocks[stock.ticker] = stock;
+      pricedStocks[stock.ticker].price = price;
+      pricedStocks[stock.ticker].originalprice = price;
     }
   }
   
@@ -46,14 +49,14 @@ const getPrices = async () => {
   async function makeApiCalls() {
     const stockKeys = Object.keys(stocks);
   
-    for (let i = 0; i < stockKeys.length; i += BATCHSIZE) {
+    for (let i = 0; i < 30; i += BATCHSIZE) {
       const batch = stockKeys.slice(i, i + BATCHSIZE);
   
       // Process the current batch
       await processBatch(batch);
   
       // If there are more stocks to process, wait for the delay between calls
-      if (i + BATCHSIZE < stockKeys.length) {
+      if (i + BATCHSIZE < 30) {
         await new Promise((resolve) => setTimeout(resolve, CALLDELAY));
       }
     }
