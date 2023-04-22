@@ -1,4 +1,5 @@
 import fs from 'fs/promises';
+import fetch from 'node-fetch';
 
 const getPrices = async () => {
 
@@ -33,6 +34,7 @@ const getPrices = async () => {
     } else {
       // Assign data top pricedStocks object
       const data = await response.json();
+      console.log(data);
       const price = data.quotes.quote.last.toFixed(2);
       pricedStocks[stock.ticker] = stock;
       pricedStocks[stock.ticker].price = price;
