@@ -12,6 +12,7 @@ const PORT = process.env.PORT || 4000;
 app.use(cors());
 app.use(express.json());
 
+// Function to call parseHoldings and fetchPrices for testing
 const callFunctions = async () => {
   await parseHoldings();
   await fetchPrices();
@@ -19,6 +20,7 @@ const callFunctions = async () => {
 
 callFunctions();
 
+// Error handling function for entire application
 const errorHandler = function(error, req, res, next) {
   console.log(`Error: ${error.message}`);
   res.status(404);

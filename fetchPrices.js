@@ -53,8 +53,8 @@ const getPrices = async () => {
     // Create array of stock keys
     const stockKeys = Object.keys(stocks);
 
-    
     for (let i = 0; i < stockKeys.length; i += BATCHSIZE) {
+      // Create next batch
       const batch = stockKeys.slice(i, i + BATCHSIZE);
 
       // Process the current batch
