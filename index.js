@@ -1,6 +1,6 @@
 import cors from 'cors';
 import express from 'express';
-import getPrices from './getPrices.js';
+import fetchPrices from './fetchPrices.js';
 import parseHoldings from './parseHoldings.js';
 
 import holdings from './routes/holdings.js';
@@ -14,7 +14,7 @@ app.use(express.json());
 
 const callFunctions = async () => {
   await parseHoldings();
-  await getPrices();
+  await fetchPrices();
 }
 
 callFunctions();
