@@ -50,16 +50,18 @@ const getPrices = async () => {
 
   // Function to iterate over the stocks object and make API calls
   async function makeApiCalls() {
+    // Create array of stock keys
     const stockKeys = Object.keys(stocks);
 
-    for (let i = 0; i < 30; i += BATCHSIZE) {
+    
+    for (let i = 0; i < stockKeys.length; i += BATCHSIZE) {
       const batch = stockKeys.slice(i, i + BATCHSIZE);
 
       // Process the current batch
       await processBatch(batch);
 
       // If there are more stocks to process, wait for the delay between calls
-      if (i + BATCHSIZE < 30) {
+      if (i + BATCHSIZE < stockKeys.length) {
         await new Promise((resolve) => setTimeout(resolve, CALLDELAY));
       }
     }
