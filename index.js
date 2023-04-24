@@ -1,6 +1,7 @@
 import cors from 'cors';
+import cron from 'node-cron';
 import express from 'express';
-import getPrices from './getPrices.js';
+import fetchPrices from './fetchPrices.js';
 import parseHoldings from './parseHoldings.js';
 
 import holdings from './routes/holdings.js';
@@ -12,13 +13,21 @@ const PORT = process.env.PORT || 4000;
 app.use(cors());
 app.use(express.json());
 
-const callFunctions = async () => {
-  await parseHoldings();
-  await getPrices();
+const testFunction = () => {
+  console.log('This test function was just called');
 }
 
-callFunctions();
+cron.schedule('* * * * *', testFunction);
 
+// Function to call parseHoldings and fetchPrices for testing
+const callFunctions = async () => {
+  await parseHoldings();
+  await fetchPrices();
+}
+
+// callFunctions();
+
+// Error handling function for entire application
 const errorHandler = function(error, req, res, next) {
   console.log(`Error: ${error.message}`);
   res.status(404);

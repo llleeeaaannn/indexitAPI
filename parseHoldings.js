@@ -1,9 +1,6 @@
 import XLSX from 'xlsx';
 import fs from 'fs/promises';
-
-function replaceDotsAndHyphens(str) {
-  return str.replace(/[.-]/g, '/');
-}
+import { replaceDotsAndHyphens } from './methods.js';
 
 const parseHoldings = async () => {
 
