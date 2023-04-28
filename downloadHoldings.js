@@ -11,7 +11,7 @@ async function downloadHoldings(url, path) {
     const fileStream = fs.createWriteStream(path);
     response.body.pipe(fileStream);
 
-    fileStream.on('finish', () => {
+    await fileStream.on('finish', () => {
       console.log(`Downloaded and saved file to ${path}`);
     });
 

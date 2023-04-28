@@ -25,8 +25,8 @@ const downloadUpdateHoldings = async () => {
 }
 
 // Call updatedHoldingsAndPrices every weekday at 10:00 New York time
-cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
-  updateHoldingsAndPrices();
+cron.schedule('30 26 9 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
+  downloadUpdateHoldings();
 }, {
   timezone: "America/New_York"
 });

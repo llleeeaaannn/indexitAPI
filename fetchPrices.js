@@ -3,6 +3,8 @@ import fetch from 'node-fetch';
 
 const getPrices = async () => {
 
+  console.log('Starting fetchPrices.js')
+
   // Batch size defines size of API call batch and delay between batches
   const BATCHSIZE = 50;
   const CALLDELAY = 90 * 1000;
@@ -14,6 +16,7 @@ const getPrices = async () => {
 
   try {
     // Import Holdings data
+    console.log('Getting output.json data');
     const data = await fs.readFile('output.json', 'utf8');
     stocks = JSON.parse(data);
   } catch (err) {
