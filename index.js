@@ -17,7 +17,7 @@ const testFunction = () => {
   console.log('This test function was just called');
 }
 
-cron.schedule('* * * * *', testFunction);
+cron.schedule('* * * * Monday, Tuesday, Wednesday, Thursday, Friday', testFunction);
 
 // Function to call parseHoldings and fetchPrices for testing
 const callFunctions = async () => {
