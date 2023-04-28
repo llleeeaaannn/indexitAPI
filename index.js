@@ -13,12 +13,13 @@ const PORT = process.env.PORT || 4000;
 app.use(cors());
 app.use(express.json());
 
-// Function to call parseHoldings and fetchPrices for testing
+// Function to call parseHoldings and fetchPrices
 const updateHoldingsAndPrices = async () => {
   await parseHoldings();
   await fetchPrices();
 }
 
+// Call updatedHoldingsAndPrices every weekday at 10:00 New York time
 cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
   updateHoldingsAndPrices();
 }, {
