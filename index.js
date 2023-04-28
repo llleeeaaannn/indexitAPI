@@ -9,6 +9,9 @@ const app = express();
 
 const PORT = process.env.PORT || 4000;
 
+const URL = 'https://www.ssga.com/us/en/intermediary/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx';
+const PATH = './SPYHoldings.xlsx';
+
 app.use(cors());
 app.use(express.json());
 
