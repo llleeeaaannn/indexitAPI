@@ -17,10 +17,11 @@ const testFunction = () => {
   console.log('This test function was just called');
 }
 
-cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', testFunction);
+// cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', testFunction);
 
-cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
+cron.schedule('0 34 7 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
   console.log('Running a test of Node-Cron');
+  testFunction();
 }, {
   timezone: "America/New_York"
 });
