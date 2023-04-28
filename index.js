@@ -12,18 +12,17 @@ const app = express();
 const PORT = process.env.PORT || 4000;
 
 const URL = 'https://www.ssga.com/us/en/intermediary/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx';
-const PATH = './SPYHoldings.xlsx';
+const PATH = './spyholdings.xlsx';
 
 app.use(cors());
 app.use(express.json());
 
 // Function to call parseHoldings and fetchPrices
-const updateHoldingsAndPrices = async () => {
+const downloadUpdateHoldings = async () => {
+  await downloadHoldings(URL, PATH);
   await parseHoldings();
   await fetchPrices();
 }
-
-downloadHoldings();
 
 // Call updatedHoldingsAndPrices every weekday at 10:00 New York time
 cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
