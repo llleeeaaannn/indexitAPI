@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 
-async function downloadHoldingsFile(url, path) {
+async function downloadHoldings(url, path) {
   try {
     const response = await fetch(url);
     if (!response.ok) {
@@ -19,4 +19,4 @@ async function downloadHoldingsFile(url, path) {
   }
 }
 
-export default downloadHoldingsFile;
+export default downloadHoldings;
