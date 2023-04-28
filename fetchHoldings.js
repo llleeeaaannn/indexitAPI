@@ -1,4 +1,4 @@
-
+import fetch from 'node-fetch';
 
 const URL = 'https://www.ssga.com/us/en/intermediary/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx';
 const PATH = './SPYHoldings.xlsx';
