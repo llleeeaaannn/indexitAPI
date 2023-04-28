@@ -17,17 +17,15 @@ const testFunction = () => {
   console.log('This test function was just called');
 }
 
-// cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', testFunction);
-
-cron.schedule('0 34 7 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
-  console.log('Running a test of Node-Cron');
-  testFunction();
+cron.schedule('11 39 7 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
+  console.log('CALLLING');
+  updateHoldingsAndPrices();
 }, {
   timezone: "America/New_York"
 });
 
 // Function to call parseHoldings and fetchPrices for testing
-const callFunctions = async () => {
+const updateHoldingsAndPrices = async () => {
   await parseHoldings();
   await fetchPrices();
 }
