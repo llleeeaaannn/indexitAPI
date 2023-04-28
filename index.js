@@ -17,13 +17,12 @@ const testFunction = () => {
   console.log('This test function was just called');
 }
 
-cron.schedule('* * * * Monday,Tuesday,Wednesday,Thursday,Friday', testFunction);
+cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', testFunction);
 
-cron.schedule('* * * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
+cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
   console.log('Running a test of Node-Cron');
 }, {
-  scheduled: true,
-  timezone: "America/Sao_Paulo"
+  timezone: "America/New_York"
 });
 
 // Function to call parseHoldings and fetchPrices for testing
