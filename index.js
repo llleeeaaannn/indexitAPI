@@ -13,24 +13,18 @@ const PORT = process.env.PORT || 4000;
 app.use(cors());
 app.use(express.json());
 
-const testFunction = () => {
-  console.log('This test function was just called');
-}
-
-cron.schedule('11 39 7 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
-  console.log('CALLLING');
-  updateHoldingsAndPrices();
-}, {
-  timezone: "America/New_York"
-});
-
 // Function to call parseHoldings and fetchPrices for testing
 const updateHoldingsAndPrices = async () => {
   await parseHoldings();
   await fetchPrices();
 }
 
-// callFunctions();
+cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
+  updateHoldingsAndPrices();
+}, {
+  timezone: "America/New_York"
+});
+
 
 // Error handling function for entire application
 const errorHandler = function(error, req, res, next) {
