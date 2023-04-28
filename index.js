@@ -3,7 +3,9 @@ import cron from 'node-cron';
 import express from 'express';
 import fetchPrices from './fetchPrices.js';
 import parseHoldings from './parseHoldings.js';
+import downloadHoldings from './downloadHoldings.js';
 import holdings from './routes/holdings.js';
+
 
 const app = express();
 
@@ -20,6 +22,8 @@ const updateHoldingsAndPrices = async () => {
   await parseHoldings();
   await fetchPrices();
 }
+
+downloadHoldings();
 
 // Call updatedHoldingsAndPrices every weekday at 10:00 New York time
 cron.schedule('0 0 10 * * Monday,Tuesday,Wednesday,Thursday,Friday', () => {
